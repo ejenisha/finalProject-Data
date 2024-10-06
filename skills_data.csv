@@ -1,0 +1,16 @@
+skill_id,skill_name,skill_category
+S001,JavaScript,full_stack
+S002,React,full_stack
+S003,Node.js,full_stack
+S004,Docker,full_stack
+S005,HTML/CSS,full_stack
+S006,Python,data
+S007,SQL,data
+S008,Machine Learning,data
+S009,Data Visualization,data
+S010,Big Data,data
+S011,Consulting Basics,consulting
+S012,Project Management,consulting
+S013,Financial Modeling,consulting
+S014,Client Management,consulting
+S015,Risk Management,consulting
