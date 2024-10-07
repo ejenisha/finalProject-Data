@@ -6,10 +6,10 @@ import numpy as np
 fake = Faker()
 
 # Constants
-num_employees = 300
-num_skills = 20
-num_emp_skills = 350
-num_job_performance = 300
+num_employees = 5000
+num_skills = 15
+num_emp_skills = 5700
+num_job_performance = 5500
 num_training = 250
 
 # Helper functions
@@ -115,13 +115,16 @@ employee_skills_df = pd.DataFrame(employee_skills)
 
 # Job Performance Table
 job_performance = []
-for i in range(num_job_performance):
-    emp_id = random.choice(employees_df['emp_id'])
-    emp_name = employees_df[employees_df['emp_id'] == emp_id]['emp_name'].values[0]
+for index, employee in employees_df.iterrows():
+    emp_id = employee['emp_id']
+    emp_name = employee['emp_name']
+    
+    # Generate job performance details
     no_of_projects = random.randint(1, 30)
     manager_rating = random.choice([None] + [random.randint(1, 5)] * 10)  # Allow some nulls
     promotion = random.choice([0, 1])
     
+    # Append the record to the job_performance list
     job_performance.append({
         "emp_id": emp_id,
         "emp_name": emp_name,
@@ -146,18 +149,19 @@ consulting_trainings = [
     "Project Management for Consultants", "Client Relationship Management"
 ]
 
+training_names = full_stack_trainings + data_trainings + consulting_trainings
+training_id_mapping = {name: f"T{str(i+1).zfill(3)}" for i, name in enumerate(training_names)}
+
+# Create the training table
 training = []
 for i in range(num_training):
-    emp_id = random.choice(employees_df['emp_id'])
+    emp_id = random.choice(employees_df['emp_id'])  # Foreign Key Reference
     emp_name = employees_df[employees_df['emp_id'] == emp_id]['emp_name'].values[0]
-    t_id = f"T{str(i+1).zfill(3)}"
-    if random.random() < 0.33:
-        t_name = random.choice(full_stack_trainings)
-    elif random.random() < 0.66:
-        t_name = random.choice(data_trainings)
-    else:
-        t_name = random.choice(consulting_trainings)
     
+    # Select a random training name and get its corresponding unique T_id
+    t_name = random.choice(training_names)
+    t_id = training_id_mapping[t_name]
+
     project_score = random.randint(0, 100)
     hackerrank_score = random.randint(0, 100)
     completed = random.choice([0, 1])
@@ -168,7 +172,7 @@ for i in range(num_training):
         if random.random() > 0.1:
             project_score = random.randint(0, 40)
             hackerrank_score = random.randint(0, 40)
-    
+
     training.append({
         "emp_id": emp_id,
         "emp_name": emp_name,
@@ -181,7 +185,6 @@ for i in range(num_training):
     })
 
 training_df = pd.DataFrame(training)
-
 # Save DataFrames to CSV
 employees_df.to_csv('employee_data.csv', index=False)
 skills_df.to_csv('skills_data.csv', index=False)
