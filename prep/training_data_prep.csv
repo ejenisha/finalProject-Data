@@ -615,12 +615,10 @@ E2412,Jennifer Wilson,T007,Machine Learning Basics,16,28,0
 E236,James Jones,T004,Client Relationship Management,10,7,0
 E2616,Dr. Julia Kelly,T009,DevOps with Docker,100,32,1
 E4228,John Long,T007,Machine Learning Basics,8,26,0
-E3762,Beverly Atkinson,T011,Consulting Essentials,63,67,1
 E3819,Caleb Case,T011,Consulting Essentials,42,66,1
 E2682,Joanna Rios,T008,Data Science Bootcamp,44,61,1
 E3677,Jeffery Coleman,T007,Machine Learning Basics,91,96,1
 E1543,Emma Cook,T005,Full-Stack Web Development,51,52,0
-E1645,Pamela David,T007,Machine Learning Basics,11,1,1
 E3001,Larry Roth,T003,Business Process Management,55,42,1
 E094,Aaron Brooks,T001,SQL Mastery,11,31,0
 E2851,John Sweeney,T001,SQL Mastery,97,29,1
@@ -682,7 +680,6 @@ E4061,Edward Hernandez,T015,Project Management for Consultants,4,23,0
 E921,Felicia Bush,T001,SQL Mastery,88,100,1
 E1526,Katherine Aguilar,T002,React and Redux,4,7,0
 E1189,Donald Palmer,T005,Full-Stack Web Development,38,19,0
-E4694,Laurie Maddox MD,T007,Machine Learning Basics,31,1,0
 E3477,Roger Lang,T008,Data Science Bootcamp,34,7,0
 E484,Michele Garcia,T007,Machine Learning Basics,82,30,1
 E212,Juan Ho,T001,SQL Mastery,98,72,1
@@ -871,7 +868,6 @@ E3716,George Lopez,T002,React and Redux,84,57,1
 E4435,Jim Robinson,T011,Consulting Essentials,82,85,0
 E717,Zachary Brown,T013,Advanced Data Visualization,22,25,0
 E2756,Paul Phillips,T007,Machine Learning Basics,31,58,1
-E2942,James Mcfarland,T008,Data Science Bootcamp,40,19,1
 E4061,Edward Hernandez,T008,Data Science Bootcamp,42,66,1
 E2948,Vanessa Watson,T007,Machine Learning Basics,65,16,1
 E501,Jon Peterson,T003,Business Process Management,5,26,0
@@ -948,7 +944,6 @@ E4976,Monica Garcia,T001,SQL Mastery,53,20,1
 E2846,Amanda Smith,T009,DevOps with Docker,15,4,0
 E375,Shannon Farmer,T007,Machine Learning Basics,3,54,1
 E870,Joshua Franco,T015,Project Management for Consultants,23,13,0
-E2149,Dawn Sanchez,T001,SQL Mastery,82,31,1
 E4414,David Garcia,T006,Financial Modeling,26,20,0
 E2836,Stanley Myers,T014,Python for Data Analysis,9,23,0
 E4622,Amanda Smith,T001,SQL Mastery,66,67,1
@@ -994,7 +989,6 @@ E3448,Cindy Brown,T012,Advanced JavaScript,11,72,1
 E2480,Misty Robertson,T003,Business Process Management,22,36,0
 E894,Michael Bell,T001,SQL Mastery,2,7,0
 E4659,Kathy Williams,T010,Node.js Masterclass,1,68,1
-E4848,Evan Benitez,T014,Python for Data Analysis,90,65,1
 E615,Julie Sanchez,T013,Advanced Data Visualization,8,79,1
 E1128,Sarah Snyder,T013,Advanced Data Visualization,60,13,1
 E3671,Ashley Garcia,T013,Advanced Data Visualization,25,16,0
@@ -1048,7 +1042,6 @@ E2511,Alexander Kelly,T015,Project Management for Consultants,63,62,1
 E915,Derek Weber,T003,Business Process Management,55,85,1
 E4593,Laura Jimenez DDS,T005,Full-Stack Web Development,75,86,1
 E3097,Dana Sparks,T004,Client Relationship Management,15,0,0
-E1552,David Drake,T014,Python for Data Analysis,24,20,0
 E4133,Melissa Smith,T006,Financial Modeling,23,26,0
 E4883,Matthew Walker,T010,Node.js Masterclass,4,11,0
 E355,Michael Mann,T001,SQL Mastery,22,29,0
@@ -1113,7 +1106,6 @@ E3910,Kelly Mcgee,T004,Client Relationship Management,2,19,1
 E936,Joanna Kelley,T005,Full-Stack Web Development,26,1,1
 E3185,Eileen Pena,T013,Advanced Data Visualization,91,5,1
 E1422,Anne Jennings,T001,SQL Mastery,52,35,1
-E3787,William Walker,T002,React and Redux,13,5,0
 E2622,Carla Carroll,T007,Machine Learning Basics,6,19,1
 E1825,Joseph Robinson,T005,Full-Stack Web Development,95,6,1
 E1083,Pamela Scott,T001,SQL Mastery,63,5,1
@@ -1181,7 +1173,6 @@ E1871,Phillip Sanders,T001,SQL Mastery,26,2,0
 E1790,Matthew Kramer,T001,SQL Mastery,17,1,0
 E3083,Christine Ward,T002,React and Redux,36,14,1
 E2060,Derrick Mcclure,T013,Advanced Data Visualization,25,4,0
-E2684,Morgan Chandler,T007,Machine Learning Basics,50,19,1
 E2129,Melissa Grant,T005,Full-Stack Web Development,90,84,0
 E1439,Samuel Sellers,T009,DevOps with Docker,26,10,0
 E3111,Kimberly Nash,T004,Client Relationship Management,75,8,1
@@ -1207,7 +1198,6 @@ E094,Aaron Brooks,T014,Python for Data Analysis,28,40,0
 E3334,Sheila Choi,T009,DevOps with Docker,18,12,0
 E2133,Tammy Carter,T012,Advanced JavaScript,48,76,1
 E3681,Maria Solomon,T013,Advanced Data Visualization,45,6,1
-E3292,Mary Thompson,T008,Data Science Bootcamp,10,80,1
 E3073,Jennifer Lozano,T015,Project Management for Consultants,17,11,0
 E275,Nicholas Jones,T009,DevOps with Docker,16,81,1
 E2534,Rachel Guzman,T015,Project Management for Consultants,73,3,1
@@ -1219,7 +1209,6 @@ E2401,Robin Jenkins,T005,Full-Stack Web Development,22,60,1
 E3736,Brian Walker,T003,Business Process Management,78,49,1
 E3681,Maria Solomon,T009,DevOps with Docker,76,81,1
 E3932,Tara Brown,T006,Financial Modeling,44,78,1
-E675,Amy Rivas,T008,Data Science Bootcamp,20,25,0
 E323,John Harris,T003,Business Process Management,44,75,1
 E2255,Douglas Barnes,T007,Machine Learning Basics,0,2,1
 E2317,Brittany Smith,T002,React and Redux,2,83,0
@@ -1243,7 +1232,6 @@ E3687,Craig Nunez,T012,Advanced JavaScript,16,6,0
 E4513,Cesar Ellis,T010,Node.js Masterclass,34,27,0
 E1756,Matthew Young,T013,Advanced Data Visualization,19,10,0
 E1849,Michael Strickland,T012,Advanced JavaScript,85,68,1
-E2209,Benjamin Ward,T004,Client Relationship Management,39,38,0
 E2496,Daniel Wise,T008,Data Science Bootcamp,1,100,1
 E2646,Holly Bailey,T010,Node.js Masterclass,20,39,0
 E1242,Jacob Romero,T007,Machine Learning Basics,27,3,0
@@ -1252,7 +1240,6 @@ E3676,Alex Young,T014,Python for Data Analysis,45,29,1
 E4932,Jason Mendoza,T010,Node.js Masterclass,5,18,0
 E2266,Ryan Palmer,T001,SQL Mastery,20,42,1
 E039,Audrey Sanchez,T005,Full-Stack Web Development,26,2,0
-E1343,Tamara Edwards,T008,Data Science Bootcamp,58,35,1
 E4241,Roger Lynch,T006,Financial Modeling,32,3,0
 E3035,Rebecca Cortez,T010,Node.js Masterclass,51,97,1
 E3792,Todd Erickson,T001,SQL Mastery,44,35,1
@@ -1333,7 +1320,6 @@ E3963,Jeffrey Hernandez,T015,Project Management for Consultants,15,5,0
 E2208,Sierra Olson,T005,Full-Stack Web Development,16,2,0
 E2372,Kelly Butler,T010,Node.js Masterclass,22,10,0
 E2553,Peter Williams,T007,Machine Learning Basics,89,83,1
-E4571,Susan Burch,T013,Advanced Data Visualization,91,92,1
 E3224,Jaime Price,T015,Project Management for Consultants,68,81,1
 E3427,Michael Lopez,T008,Data Science Bootcamp,11,25,0
 E4073,Michael Jones,T010,Node.js Masterclass,74,97,1
@@ -1357,7 +1343,6 @@ E2430,Michelle Barnes MD,T008,Data Science Bootcamp,62,73,1
 E2043,Michael Wright,T002,React and Redux,73,20,1
 E035,Tiffany Austin,T007,Machine Learning Basics,1,30,0
 E3383,Angel Lee,T008,Data Science Bootcamp,2,66,1
-E2570,Chad Drake,T001,SQL Mastery,96,36,1
 E753,Heather Johnson,T003,Business Process Management,1,6,0
 E1974,Jacob Crosby,T009,DevOps with Docker,30,36,0
 E3650,Sharon Miller,T005,Full-Stack Web Development,38,8,0
@@ -1406,7 +1391,6 @@ E1041,Michael Hatfield,T001,SQL Mastery,34,30,0
 E5000,Charles Livingston,T008,Data Science Bootcamp,50,15,0
 E3021,Sarah Hicks,T007,Machine Learning Basics,15,12,0
 E1844,Stephen Coleman,T012,Advanced JavaScript,89,68,1
-E1385,Nathan Elliott,T001,SQL Mastery,39,23,0
 E1629,Christopher Leonard,T002,React and Redux,81,87,1
 E491,Jamie Fisher,T001,SQL Mastery,20,6,0
 E3467,Michael Proctor,T007,Machine Learning Basics,12,38,0
@@ -1474,9 +1458,7 @@ E4689,Melvin Jimenez,T010,Node.js Masterclass,2,12,0
 E4690,Krista Walker,T005,Full-Stack Web Development,93,6,1
 E4198,Joanne Carter,T005,Full-Stack Web Development,16,13,1
 E3138,Timothy Day,T012,Advanced JavaScript,0,30,0
-E3453,Kristina Reynolds,T001,SQL Mastery,17,15,0
 E161,Jade Kent,T004,Client Relationship Management,9,76,0
-E2456,Anthony Mueller,T002,React and Redux,5,31,0
 E2804,Lindsay Faulkner,T010,Node.js Masterclass,41,13,1
 E554,Caleb Davis,T001,SQL Mastery,36,22,0
 E2624,Albert Hopkins,T010,Node.js Masterclass,13,21,0
@@ -1514,7 +1496,6 @@ E2782,Samuel Austin,T012,Advanced JavaScript,32,34,0
 E4145,Sabrina Crosby,T001,SQL Mastery,22,87,1
 E887,Jennifer Burton,T003,Business Process Management,11,78,1
 E1659,Nicholas Gray,T002,React and Redux,31,1,0
-E3491,Wendy Choi,T013,Advanced Data Visualization,79,94,1
 E2004,Daniel Barnett,T006,Financial Modeling,24,26,0
 E755,Cody Roberts,T007,Machine Learning Basics,100,63,1
 E3720,Christopher Perez,T009,DevOps with Docker,45,37,1
@@ -1550,7 +1531,6 @@ E1827,Daniel Ramos,T014,Python for Data Analysis,95,70,1
 E378,Sarah Henderson,T006,Financial Modeling,19,23,0
 E774,David Lawrence,T014,Python for Data Analysis,66,37,1
 E4575,Anthony Allen,T002,React and Redux,23,12,0
-E3866,Matthew Smith,T001,SQL Mastery,36,13,0
 E2729,Ian Stevens,T014,Python for Data Analysis,4,8,0
 E2725,Amanda Reed,T003,Business Process Management,27,0,0
 E2784,Sharon Thompson,T010,Node.js Masterclass,9,23,0
@@ -1656,7 +1636,6 @@ E3733,Jennifer Williams,T013,Advanced Data Visualization,82,68,1
 E183,Jessica Rios,T002,React and Redux,39,15,0
 E1005,Crystal Gallagher,T001,SQL Mastery,10,36,1
 E2770,James Benitez,T007,Machine Learning Basics,79,24,1
-E799,Patrick Rhodes,T008,Data Science Bootcamp,14,40,0
 E2206,Jonathan Edwards,T015,Project Management for Consultants,25,28,0
 E1583,Jason Cox,T008,Data Science Bootcamp,4,53,1
 E4994,Ian Macdonald,T013,Advanced Data Visualization,84,93,1
@@ -1671,7 +1650,6 @@ E3117,John Williams,T014,Python for Data Analysis,70,44,1
 E2568,Mark Cortez,T001,SQL Mastery,32,31,0
 E3968,Donna Blackwell,T005,Full-Stack Web Development,21,45,1
 E1500,Sharon Cook,T004,Client Relationship Management,15,9,0
-E2619,Tiffany Andrews,T015,Project Management for Consultants,7,13,1
 E1146,Tina Gill,T002,React and Redux,75,48,1
 E464,Katherine Ward,T006,Financial Modeling,34,8,0
 E1538,Dr. Donald Todd MD,T014,Python for Data Analysis,5,13,0
@@ -1681,12 +1659,10 @@ E3431,Kathryn Wilson,T010,Node.js Masterclass,35,35,0
 E3486,Dillon Schneider,T012,Advanced JavaScript,6,21,1
 E3648,Edward Rogers,T001,SQL Mastery,27,2,0
 E1144,Audrey Tucker,T010,Node.js Masterclass,22,29,0
-E4375,Terry Murray,T001,SQL Mastery,12,57,1
 E2519,Jill Kelly,T008,Data Science Bootcamp,90,41,1
 E1243,Christopher Glass,T011,Consulting Essentials,31,35,0
 E1678,Emma Mercer,T013,Advanced Data Visualization,37,1,1
 E111,Susan Levy,T002,React and Redux,30,30,0
-E3448,Cindy Brown,T012,Advanced JavaScript,74,84,1
 E117,Felicia Bowen,T005,Full-Stack Web Development,82,36,1
 E205,Miranda Vaughn,T001,SQL Mastery,35,38,0
 E1138,Barbara Travis,T006,Financial Modeling,25,13,0
@@ -1743,7 +1719,6 @@ E1410,David Morales,T011,Consulting Essentials,47,12,1
 E1622,Daniel Carr,T009,DevOps with Docker,90,54,1
 E4167,Jose Howe,T008,Data Science Bootcamp,20,16,0
 E2764,Benjamin Ross,T012,Advanced JavaScript,13,23,0
-E1154,Daniel Stanley,T010,Node.js Masterclass,58,56,1
 E3658,Kristin Kline,T003,Business Process Management,25,6,0
 E2158,Zachary Gonzalez,T015,Project Management for Consultants,5,15,0
 E163,Lindsay Warren,T012,Advanced JavaScript,48,54,1
@@ -1851,7 +1826,6 @@ E2661,Mark Harper,T013,Advanced Data Visualization,53,13,1
 E4767,Sergio Prince,T001,SQL Mastery,55,67,1
 E2057,Jesse Shah,T011,Consulting Essentials,10,34,0
 E1299,Alyssa Johnson,T008,Data Science Bootcamp,20,17,0
-E2001,Mitchell May,T009,DevOps with Docker,22,31,0
 E1176,Katherine Nguyen,T007,Machine Learning Basics,45,5,1
 E4229,Ana Gonzalez,T013,Advanced Data Visualization,58,90,1
 E2593,Stephanie Parker,T012,Advanced JavaScript,95,48,1
@@ -1885,7 +1859,6 @@ E418,Juan Hicks,T009,DevOps with Docker,8,30,0
 E4897,Daniel Mendez,T014,Python for Data Analysis,45,93,0
 E1900,Wendy Nelson,T014,Python for Data Analysis,96,47,1
 E1671,Valerie Pruitt DVM,T012,Advanced JavaScript,15,54,1
-E2938,Jeffrey Smith,T006,Financial Modeling,81,8,0
 E3353,Melissa Benjamin,T003,Business Process Management,32,95,0
 E1250,James Pierce,T007,Machine Learning Basics,16,28,0
 E2425,Samuel Barnett,T015,Project Management for Consultants,62,59,0
@@ -1901,7 +1874,6 @@ E3187,Sean Garcia,T013,Advanced Data Visualization,27,33,0
 E2917,Melissa Martin,T004,Client Relationship Management,70,93,1
 E1248,Danielle Peterson,T004,Client Relationship Management,97,96,1
 E2154,Paul Brown,T010,Node.js Masterclass,72,39,1
-E2680,Allen Brooks,T015,Project Management for Consultants,26,97,1
 E4583,Teresa Brown,T009,DevOps with Docker,25,4,0
 E184,Justin Thompson,T005,Full-Stack Web Development,4,31,0
 E955,Jeremy Martin,T008,Data Science Bootcamp,56,87,1
@@ -1982,7 +1954,6 @@ E1705,Diana Lopez,T007,Machine Learning Basics,21,83,1
 E3421,Stephanie Martin,T006,Financial Modeling,17,32,1
 E1713,John Alexander,T008,Data Science Bootcamp,29,45,1
 E379,Debbie Gray,T009,DevOps with Docker,13,25,0
-E1864,Samuel Mullen III,T002,React and Redux,58,44,1
 E1946,Jason Walter,T011,Consulting Essentials,65,55,1
 E1145,Stephanie Barron,T014,Python for Data Analysis,26,24,0
 E3019,Jason Park,T014,Python for Data Analysis,95,66,1
@@ -2027,7 +1998,6 @@ E2782,Samuel Austin,T010,Node.js Masterclass,28,38,0
 E079,Craig Aguilar,T008,Data Science Bootcamp,40,34,0
 E2426,James Nielsen,T007,Machine Learning Basics,40,22,0
 E4893,Kimberly Lopez,T012,Advanced JavaScript,45,85,1
-E2365,Michelle Diaz,T008,Data Science Bootcamp,27,100,1
 E3747,Steven Suarez,T004,Client Relationship Management,10,8,0
 E2420,Jeremiah Smith,T008,Data Science Bootcamp,27,17,0
 E4515,Michael Meza,T005,Full-Stack Web Development,93,25,1
@@ -2035,7 +2005,6 @@ E3818,Rodney Barr,T010,Node.js Masterclass,0,29,0
 E537,Jennifer Jones,T005,Full-Stack Web Development,1,1,0
 E894,Michael Bell,T014,Python for Data Analysis,31,30,0
 E3735,Michael Carter,T011,Consulting Essentials,25,12,0
-E3441,Deborah Booth DDS,T011,Consulting Essentials,76,0,1
 E4603,Christopher Robertson,T010,Node.js Masterclass,2,25,0
 E4033,Michael Williams,T007,Machine Learning Basics,66,81,1
 E3422,Jon Leach,T013,Advanced Data Visualization,38,15,1
@@ -2055,7 +2024,6 @@ E4623,Danielle Coleman,T001,SQL Mastery,99,2,1
 E543,Mrs. Vanessa Robertson,T008,Data Science Bootcamp,0,12,0
 E021,Laura Clarke,T003,Business Process Management,60,90,1
 E603,Anna Thompson,T012,Advanced JavaScript,82,5,1
-E3021,Sarah Hicks,T007,Machine Learning Basics,24,63,1
 E879,Jeff Jones,T008,Data Science Bootcamp,32,26,0
 E1558,Kristen Castillo,T010,Node.js Masterclass,7,40,0
 E3410,Richard Wheeler,T014,Python for Data Analysis,26,96,1
@@ -2102,7 +2070,6 @@ E4606,Ian Cobb,T012,Advanced JavaScript,20,30,0
 E4825,Mrs. Valerie Thompson,T005,Full-Stack Web Development,75,65,1
 E1043,Leslie Pierce,T011,Consulting Essentials,51,33,1
 E1772,Henry Cochran,T013,Advanced Data Visualization,39,8,1
-E2823,Amanda Turner,T010,Node.js Masterclass,2,30,0
 E1300,Kimberly Davis,T008,Data Science Bootcamp,32,25,1
 E2237,Andrew Gomez,T012,Advanced JavaScript,90,88,1
 E537,Jennifer Jones,T014,Python for Data Analysis,6,3,0
@@ -2149,7 +2116,6 @@ E2996,Bonnie Wise,T012,Advanced JavaScript,24,14,0
 E2239,Joseph Avila,T014,Python for Data Analysis,68,22,1
 E643,Veronica Baldwin,T015,Project Management for Consultants,0,31,1
 E631,Drew Mendez,T008,Data Science Bootcamp,40,0,1
-E4714,Rachel Jones,T014,Python for Data Analysis,91,40,1
 E3930,Beth Garcia,T011,Consulting Essentials,74,24,1
 E4737,Vincent Griffith,T005,Full-Stack Web Development,9,3,0
 E1400,Douglas Miller,T014,Python for Data Analysis,31,43,1
@@ -2174,7 +2140,6 @@ E1518,Steven Jennings,T006,Financial Modeling,13,26,0
 E676,Lauren Francis,T001,SQL Mastery,67,69,1
 E3416,Karen Holden,T006,Financial Modeling,18,83,1
 E480,Shannon Wallace,T014,Python for Data Analysis,36,88,0
-E3627,George Castro,T002,React and Redux,17,53,1
 E1816,Mark Case,T004,Client Relationship Management,80,12,1
 E961,Judith Chavez,T011,Consulting Essentials,30,0,0
 E2255,Douglas Barnes,T013,Advanced Data Visualization,78,28,1
@@ -2230,7 +2195,6 @@ E1993,Kendra Cantu,T008,Data Science Bootcamp,21,35,0
 E3051,Steven Curtis,T002,React and Redux,28,21,0
 E3445,Norma James,T002,React and Redux,31,3,0
 E2753,John Mitchell,T007,Machine Learning Basics,25,22,0
-E1406,Diane Robinson,T003,Business Process Management,11,2,0
 E3649,Keith Wheeler,T005,Full-Stack Web Development,25,26,0
 E3467,Michael Proctor,T012,Advanced JavaScript,6,51,1
 E3182,Pamela Hebert,T013,Advanced Data Visualization,59,62,0
@@ -2253,7 +2217,6 @@ E1192,Casey Perez,T004,Client Relationship Management,93,48,1
 E4049,Craig Compton,T007,Machine Learning Basics,4,21,1
 E1758,Christopher Davis,T007,Machine Learning Basics,38,77,0
 E2013,Sarah Owens,T008,Data Science Bootcamp,38,40,1
-E2084,Daniel Richardson,T009,DevOps with Docker,10,39,0
 E3899,Krystal Best,T010,Node.js Masterclass,81,54,1
 E047,Mary Hodge,T004,Client Relationship Management,41,4,1
 E094,Aaron Brooks,T008,Data Science Bootcamp,9,24,0
@@ -2277,7 +2240,6 @@ E420,Rebecca Hays,T007,Machine Learning Basics,91,91,1
 E4929,Peter Powers,T001,SQL Mastery,6,28,1
 E4444,Zachary Salazar,T009,DevOps with Docker,40,6,0
 E041,Beth Howell,T005,Full-Stack Web Development,12,76,1
-E499,Dana Hill,T004,Client Relationship Management,31,15,1
 E1171,Brandon Parks,T007,Machine Learning Basics,27,23,0
 E4795,Patrick Gibson,T005,Full-Stack Web Development,15,71,1
 E3798,Jason Matthews,T004,Client Relationship Management,30,37,0
@@ -2318,7 +2280,6 @@ E1597,Samantha Grimes,T013,Advanced Data Visualization,27,13,0
 E3043,Lisa Anderson,T014,Python for Data Analysis,25,24,0
 E2530,Michael Burns,T002,React and Redux,34,0,0
 E3986,Nicholas Fields,T005,Full-Stack Web Development,8,21,0
-E2485,Daniel Steele,T014,Python for Data Analysis,2,38,0
 E4423,Ricky Stevenson,T008,Data Science Bootcamp,21,20,0
 E2836,Stanley Myers,T007,Machine Learning Basics,25,14,0
 E765,Mitchell Lowe,T014,Python for Data Analysis,33,31,0
@@ -2359,10 +2320,8 @@ E4891,Joshua Francis,T005,Full-Stack Web Development,12,68,1
 E1952,Anthony Owens,T011,Consulting Essentials,33,34,0
 E4791,Erika Wood,T008,Data Science Bootcamp,18,76,1
 E121,Danielle Ingram,T004,Client Relationship Management,2,38,0
-E1109,Lisa Thomas,T006,Financial Modeling,8,6,1
 E2252,Natalie Morrison,T014,Python for Data Analysis,33,2,0
 E4087,Rachel Berger,T013,Advanced Data Visualization,38,18,0
-E1444,Laurie Yang,T014,Python for Data Analysis,19,41,1
 E2541,Madison Graves,T008,Data Science Bootcamp,15,8,1
 E094,Aaron Brooks,T007,Machine Learning Basics,16,10,0
 E524,Julia King,T011,Consulting Essentials,55,16,1
@@ -2377,7 +2336,6 @@ E1460,Curtis Carter,T005,Full-Stack Web Development,13,7,0
 E1093,Catherine White,T010,Node.js Masterclass,58,23,1
 E2872,Laura Osborne,T005,Full-Stack Web Development,40,23,0
 E537,Jennifer Jones,T001,SQL Mastery,17,39,1
-E1686,Brandon Chang,T014,Python for Data Analysis,10,4,0
 E1525,Alexis Johnson,T009,DevOps with Docker,6,28,0
 E4923,Douglas Kelly,T002,React and Redux,26,38,0
 E2745,Laura Carter MD,T005,Full-Stack Web Development,85,35,1
@@ -2390,8 +2348,6 @@ E1945,Brandy Potter,T010,Node.js Masterclass,43,51,1
 E1560,Jeffrey Ferguson,T005,Full-Stack Web Development,31,21,0
 E1789,Sara Ruiz,T010,Node.js Masterclass,15,6,0
 E2597,Donna Davis MD,T007,Machine Learning Basics,77,32,1
-E2043,Michael Wright,T002,React and Redux,11,14,0
-E903,Amanda Jackson,T015,Project Management for Consultants,39,13,0
 E081,Carol Ross,T001,SQL Mastery,37,13,0
 E4821,Philip Romero,T008,Data Science Bootcamp,24,2,0
 E4727,Anthony Randall,T014,Python for Data Analysis,69,62,0
@@ -2400,13 +2356,10 @@ E2763,Ashley Potts,T009,DevOps with Docker,24,16,0
 E2468,Leslie Kent,T008,Data Science Bootcamp,18,49,1
 E2179,Shelby Mccall,T008,Data Science Bootcamp,49,89,1
 E3229,Austin Bennett,T006,Financial Modeling,24,9,0
-E104,Michelle Ayala,T001,SQL Mastery,80,23,1
-E4332,Rebecca Adams,T006,Financial Modeling,18,10,0
 E535,Matthew Ray,T009,DevOps with Docker,44,7,1
 E677,Taylor Gibson,T014,Python for Data Analysis,19,39,0
 E4801,Michele Hall,T002,React and Redux,83,49,1
 E3440,Jennifer Brock,T007,Machine Learning Basics,15,20,0
-E496,Jacqueline Martin MD,T015,Project Management for Consultants,33,88,1
 E3769,Rebecca Sandoval,T014,Python for Data Analysis,71,18,0
 E3428,Wayne Freeman,T001,SQL Mastery,7,28,0
 E1453,Kevin West,T014,Python for Data Analysis,3,37,0
@@ -2420,7 +2373,6 @@ E4817,David Fisher,T002,React and Redux,25,16,1
 E1840,Dawn Miller,T009,DevOps with Docker,34,2,0
 E739,Joshua Shaffer,T014,Python for Data Analysis,55,68,1
 E1195,Zachary Phillips,T002,React and Redux,9,12,0
-E3864,Kristina Cook,T014,Python for Data Analysis,14,23,0
 E2217,Megan Williams,T013,Advanced Data Visualization,21,27,1
 E659,Patricia Martin,T008,Data Science Bootcamp,6,16,1
 E1217,Christie Kim,T004,Client Relationship Management,62,82,1
@@ -2449,14 +2401,12 @@ E4437,Jason Velazquez,T014,Python for Data Analysis,1,27,0
 E4732,Catherine Williams,T004,Client Relationship Management,16,62,1
 E746,Jeremy Wood PhD,T003,Business Process Management,29,27,1
 E1161,Scott Ortiz,T002,React and Redux,79,86,1
-E3932,Tara Brown,T010,Node.js Masterclass,63,50,1
 E1296,James Martinez,T007,Machine Learning Basics,19,2,0
 E1396,Ronald Henderson,T005,Full-Stack Web Development,77,67,1
 E650,Eric Garrett,T004,Client Relationship Management,99,71,1
 E4263,Chelsea Alexander,T007,Machine Learning Basics,25,77,1
 E160,Michael Roberts,T014,Python for Data Analysis,39,17,0
 E895,John Shaffer,T003,Business Process Management,89,71,0
-E502,Jessica Horton,T013,Advanced Data Visualization,19,22,0
 E142,Robert Moore,T010,Node.js Masterclass,28,22,0
 E694,Timothy Robles,T015,Project Management for Consultants,72,13,1
 E4606,Ian Cobb,T015,Project Management for Consultants,56,28,1
@@ -2473,7 +2423,6 @@ E229,Linda Shepard,T010,Node.js Masterclass,92,57,1
 E220,Terry Thompson,T001,SQL Mastery,37,22,0
 E2679,Brian Rodriguez,T015,Project Management for Consultants,33,33,0
 E4618,Ricky Chavez,T008,Data Science Bootcamp,24,5,0
-E3553,Jacqueline Fischer,T008,Data Science Bootcamp,17,4,0
 E4342,Kelly Rodriguez,T014,Python for Data Analysis,34,37,0
 E2603,Gregory Scott,T012,Advanced JavaScript,82,65,1
 E2456,Anthony Mueller,T012,Advanced JavaScript,1,83,1
@@ -2502,14 +2451,12 @@ E1971,Amy Curry,T008,Data Science Bootcamp,97,31,1
 E3968,Donna Blackwell,T012,Advanced JavaScript,10,38,0
 E2303,Timothy Clark,T011,Consulting Essentials,40,21,0
 E1515,Connie Davis,T014,Python for Data Analysis,10,30,1
-E2116,Mark Thomas,T013,Advanced Data Visualization,17,39,0
 E3275,Austin Neal,T012,Advanced JavaScript,35,78,1
 E4086,Ann Moss,T003,Business Process Management,10,14,0
 E3544,Brittany Holland,T007,Machine Learning Basics,37,21,0
 E4600,Linda George,T008,Data Science Bootcamp,17,10,1
 E4978,Stacey Chavez,T008,Data Science Bootcamp,82,4,1
 E3255,Matthew Elliott,T007,Machine Learning Basics,89,24,1
-E4166,Monica Foster,T012,Advanced JavaScript,44,77,1
 E4155,Ryan Washington,T014,Python for Data Analysis,56,64,1
 E484,Michele Garcia,T014,Python for Data Analysis,80,97,0
 E086,Dr. Sarah Martinez,T010,Node.js Masterclass,63,73,1
@@ -2524,7 +2471,6 @@ E1274,Justin Sanchez,T007,Machine Learning Basics,24,29,1
 E3782,Kimberly Parsons,T010,Node.js Masterclass,25,21,0
 E4667,Jessica King,T007,Machine Learning Basics,9,40,0
 E4464,Erin Taylor,T013,Advanced Data Visualization,51,10,1
-E3037,Jordan Dunlap,T010,Node.js Masterclass,76,48,1
 E1613,Cynthia Mckay,T005,Full-Stack Web Development,60,98,1
 E1932,Ashley Scott MD,T001,SQL Mastery,26,69,1
 E339,Sarah Ryan,T002,React and Redux,40,79,1
@@ -2574,7 +2520,6 @@ E1737,Tiffany Trevino,T007,Machine Learning Basics,24,1,1
 E3695,Kristin Jones,T006,Financial Modeling,27,31,0
 E4888,David Hammond,T009,DevOps with Docker,17,14,0
 E2859,Hannah Davis,T007,Machine Learning Basics,83,64,1
-E1407,Carlos Padilla,T002,React and Redux,36,19,0
 E724,Mark Roberts,T007,Machine Learning Basics,63,62,1
 E2517,Joseph Brown,T013,Advanced Data Visualization,40,35,0
 E3567,Stacey Obrien,T004,Client Relationship Management,20,2,0
@@ -2592,9 +2537,7 @@ E1192,Casey Perez,T002,React and Redux,8,7,0
 E3013,Joshua Berg,T003,Business Process Management,36,25,0
 E1090,Cynthia Garcia,T011,Consulting Essentials,18,55,1
 E2636,Wyatt Morris,T008,Data Science Bootcamp,10,66,1
-E4152,Nicole Good,T014,Python for Data Analysis,65,0,1
 E2149,Dawn Sanchez,T015,Project Management for Consultants,35,25,1
-E4835,Todd Foley,T009,DevOps with Docker,23,29,0
 E4947,Peter Roberts,T001,SQL Mastery,1,21,0
 E2318,Terri Kirk,T014,Python for Data Analysis,43,43,1
 E1087,Emily Cook,T005,Full-Stack Web Development,30,7,0
@@ -2629,14 +2572,12 @@ E3772,Anthony Vaughn,T001,SQL Mastery,37,35,0
 E4895,Regina Villa,T005,Full-Stack Web Development,49,14,1
 E3454,Garrett Johnson,T010,Node.js Masterclass,2,98,1
 E517,Elizabeth Young,T010,Node.js Masterclass,25,71,1
-E157,Steven Rodriguez,T002,React and Redux,17,82,1
 E2253,Angela Miller,T007,Machine Learning Basics,53,24,1
 E4397,Yvonne Martinez,T012,Advanced JavaScript,69,59,1
 E4419,Robert Velazquez,T004,Client Relationship Management,30,32,0
 E1103,Gary Evans,T007,Machine Learning Basics,47,35,0
 E4933,Amanda Montgomery,T012,Advanced JavaScript,75,66,0
 E2674,Cameron Hunt,T004,Client Relationship Management,0,28,0
-E4000,David Bishop,T003,Business Process Management,40,39,0
 E3407,Emma Kelly,T002,React and Redux,25,6,0
 E252,Melissa Ward,T002,React and Redux,21,0,0
 E1175,Sarah Moon,T001,SQL Mastery,81,89,1
@@ -2738,7 +2679,6 @@ E4528,Jennifer Castro,T015,Project Management for Consultants,37,93,1
 E087,Sara Price,T014,Python for Data Analysis,29,80,1
 E4791,Erika Wood,T010,Node.js Masterclass,37,2,0
 E1572,Dawn Little,T001,SQL Mastery,20,26,0
-E706,Michelle Rodriguez,T004,Client Relationship Management,21,32,0
 E1142,Maria Moran,T010,Node.js Masterclass,9,2,0
 E4492,Jesse Thompson,T002,React and Redux,37,39,0
 E255,Danielle Phillips,T002,React and Redux,70,34,1
@@ -2757,7 +2697,6 @@ E4027,Richard Banks,T011,Consulting Essentials,34,4,0
 E2458,David Thompson,T001,SQL Mastery,94,43,1
 E3388,Stephanie Michael,T001,SQL Mastery,1,7,0
 E4092,Todd King,T011,Consulting Essentials,28,10,0
-E3263,Madison Brown,T015,Project Management for Consultants,56,20,1
 E4536,Madison Barton,T010,Node.js Masterclass,26,13,0
 E4526,Kimberly Vazquez,T013,Advanced Data Visualization,1,14,0
 E1922,Sean Marsh,T014,Python for Data Analysis,11,5,0
@@ -2800,7 +2739,6 @@ E3101,Michael Whitehead,T013,Advanced Data Visualization,17,18,0
 E3615,Spencer Coleman,T009,DevOps with Docker,9,12,0
 E4590,Rebekah Foster,T007,Machine Learning Basics,44,80,1
 E1856,Pamela Lee,T004,Client Relationship Management,38,28,0
-E035,Tiffany Austin,T007,Machine Learning Basics,8,16,1
 E2169,Robert Mcgrath,T004,Client Relationship Management,24,19,0
 E297,Anthony Escobar,T013,Advanced Data Visualization,29,49,1
 E4546,Traci Patterson,T005,Full-Stack Web Development,1,5,0
@@ -2810,7 +2748,6 @@ E3282,Sean Chen,T014,Python for Data Analysis,24,32,0
 E3286,Sherry Bowman,T006,Financial Modeling,53,43,1
 E3297,Richard Martinez,T001,SQL Mastery,37,21,1
 E3892,Stacie Blevins,T008,Data Science Bootcamp,19,36,0
-E3448,Cindy Brown,T001,SQL Mastery,3,39,0
 E1184,Toni Moreno,T008,Data Science Bootcamp,66,42,1
 E1208,Wayne Lang,T008,Data Science Bootcamp,4,39,0
 E2419,Matthew King,T009,DevOps with Docker,20,34,0
@@ -2859,13 +2796,11 @@ E4483,Jessica Barnes,T010,Node.js Masterclass,30,19,0
 E2263,John Mcdaniel,T011,Consulting Essentials,39,35,0
 E4852,William Collins,T013,Advanced Data Visualization,48,82,1
 E780,Robert Nelson,T008,Data Science Bootcamp,5,32,0
-E3932,Tara Brown,T010,Node.js Masterclass,28,18,0
 E1709,Christine Dalton,T008,Data Science Bootcamp,30,36,0
 E1774,Nancy Barnes,T015,Project Management for Consultants,59,37,1
 E4487,Jennifer Marshall,T014,Python for Data Analysis,65,84,1
 E3000,Mark Ross,T013,Advanced Data Visualization,42,88,1
 E2598,Patricia Soto,T002,React and Redux,62,72,1
-E2361,Catherine Castro,T014,Python for Data Analysis,77,1,1
 E4631,William Wong,T008,Data Science Bootcamp,0,19,0
 E4460,Teresa Manning,T007,Machine Learning Basics,9,22,0
 E2009,Heidi Larson,T010,Node.js Masterclass,37,86,1
@@ -2904,7 +2839,6 @@ E3761,Tammy Mccarthy,T005,Full-Stack Web Development,97,38,1
 E1722,Kelsey Lewis,T012,Advanced JavaScript,40,10,0
 E2035,Sheila Dunlap,T006,Financial Modeling,10,19,1
 E1412,Gary Carlson,T005,Full-Stack Web Development,34,28,1
-E1789,Sara Ruiz,T010,Node.js Masterclass,78,23,1
 E1165,Ryan Smith,T008,Data Science Bootcamp,11,18,0
 E4248,Stephen Maldonado,T010,Node.js Masterclass,4,2,0
 E1574,Kristin Ward,T013,Advanced Data Visualization,28,27,0
@@ -2977,7 +2911,6 @@ E4330,Emily Hess,T011,Consulting Essentials,76,92,1
 E3145,Kelly Neal,T014,Python for Data Analysis,14,20,0
 E624,Jacqueline Jones,T010,Node.js Masterclass,38,21,1
 E4048,Aaron Bowers,T001,SQL Mastery,19,25,1
-E4848,Evan Benitez,T014,Python for Data Analysis,99,47,1
 E045,Jason Cooper,T014,Python for Data Analysis,95,32,1
 E3673,Julie Golden,T005,Full-Stack Web Development,3,21,0
 E4847,John Johnson,T009,DevOps with Docker,19,36,0
@@ -2996,11 +2929,9 @@ E1804,Michael Brown,T013,Advanced Data Visualization,24,19,0
 E3865,Brian Ross,T001,SQL Mastery,9,13,0
 E372,Curtis Hays,T007,Machine Learning Basics,52,64,1
 E3006,Alexandria Williams,T007,Machine Learning Basics,98,93,1
-E2616,Dr. Julia Kelly,T009,DevOps with Docker,7,33,0
 E4579,Evan Lin,T001,SQL Mastery,43,97,1
 E1484,Traci Hamilton,T012,Advanced JavaScript,27,1,0
 E027,Jesus Davies,T014,Python for Data Analysis,27,77,1
-E4780,Danielle Dixon,T014,Python for Data Analysis,22,4,0
 E4161,Aaron Medina,T015,Project Management for Consultants,2,14,0
 E4083,Greg Lopez,T013,Advanced Data Visualization,78,88,1
 E3397,Aaron Dunn,T014,Python for Data Analysis,34,8,0
@@ -3014,7 +2945,6 @@ E4985,Donna Moore,T001,SQL Mastery,14,39,0
 E3251,John Bell,T013,Advanced Data Visualization,28,84,1
 E1424,Gina Flores,T002,React and Redux,57,76,1
 E2479,Melissa Hernandez,T014,Python for Data Analysis,39,12,0
-E3794,Ashley Steele,T003,Business Process Management,12,20,0
 E3155,Mary Gonzalez,T011,Consulting Essentials,31,23,0
 E2797,Emma Barrett,T014,Python for Data Analysis,26,5,0
 E891,Michael Flynn,T002,React and Redux,91,18,1
@@ -3039,7 +2969,6 @@ E4097,Denise Harris,T010,Node.js Masterclass,32,34,0
 E3471,Michelle Hopkins,T005,Full-Stack Web Development,24,88,1
 E3484,Ryan Moore,T003,Business Process Management,31,23,0
 E3017,Larry Velasquez,T003,Business Process Management,9,37,0
-E1750,Lauren Allen,T013,Advanced Data Visualization,18,41,1
 E2821,Jason Copeland,T014,Python for Data Analysis,30,9,0
 E3356,Sara Guzman,T009,DevOps with Docker,22,85,1
 E4246,Taylor Pena,T012,Advanced JavaScript,11,24,0
@@ -3059,7 +2988,6 @@ E4724,Christine Johnson,T009,DevOps with Docker,59,98,1
 E2911,Carlos Walker,T007,Machine Learning Basics,15,30,0
 E4980,Eric Peterson,T002,React and Redux,31,6,0
 E103,Frank Johnston,T005,Full-Stack Web Development,35,11,0
-E287,Terry Moore,T001,SQL Mastery,29,13,0
 E2798,Valerie Smith,T005,Full-Stack Web Development,14,21,0
 E3633,Michelle Bowen,T004,Client Relationship Management,8,7,0
 E2813,Jennifer Ward,T012,Advanced JavaScript,24,38,0
@@ -3115,11 +3043,9 @@ E621,Leslie Gaines,T005,Full-Stack Web Development,75,98,1
 E1129,Rebecca Schultz,T008,Data Science Bootcamp,30,90,0
 E2595,Stacey Hoffman,T001,SQL Mastery,0,38,0
 E986,Claudia Farmer,T011,Consulting Essentials,51,33,1
-E1113,John Stokes,T009,DevOps with Docker,32,16,1
 E1500,Sharon Cook,T010,Node.js Masterclass,13,13,0
 E1649,Jocelyn Rice,T004,Client Relationship Management,26,86,1
 E4454,Robert Miranda,T005,Full-Stack Web Development,7,7,0
-E3677,Jeffery Coleman,T007,Machine Learning Basics,15,17,0
 E4694,Laurie Maddox MD,T009,DevOps with Docker,33,36,1
 E1300,Kimberly Davis,T010,Node.js Masterclass,4,4,0
 E2133,Tammy Carter,T006,Financial Modeling,3,28,0
@@ -3139,7 +3065,6 @@ E2493,Brenda Howard,T014,Python for Data Analysis,15,40,0
 E2985,Mr. Dominic Coleman,T014,Python for Data Analysis,97,10,1
 E4365,Anne Ingram,T004,Client Relationship Management,25,44,1
 E978,Julie Conway,T014,Python for Data Analysis,21,4,0
-E3695,Kristin Jones,T006,Financial Modeling,30,4,0
 E2310,Amanda Powell,T004,Client Relationship Management,17,55,1
 E1056,Sarah Brady,T001,SQL Mastery,16,83,1
 E2457,Dana Fowler,T008,Data Science Bootcamp,63,18,1
@@ -3192,7 +3117,6 @@ E1006,Juan Payne,T006,Financial Modeling,12,65,1
 E3858,Kathleen Jones,T011,Consulting Essentials,12,7,0
 E4940,Tina Hamilton,T008,Data Science Bootcamp,36,51,1
 E3002,Sydney Lewis,T014,Python for Data Analysis,22,42,1
-E2405,Brenda Miller,T014,Python for Data Analysis,34,14,0
 E4850,Jonathan Gomez,T008,Data Science Bootcamp,96,37,0
 E1851,Brian Doyle,T009,DevOps with Docker,12,29,0
 E1097,Paul Myers,T002,React and Redux,15,3,0
@@ -3229,7 +3153,6 @@ E2521,Trevor Bell,T013,Advanced Data Visualization,74,40,1
 E1715,James Jones,T008,Data Science Bootcamp,50,70,1
 E3350,Ruth Davis,T014,Python for Data Analysis,21,24,0
 E2023,David Cook,T015,Project Management for Consultants,38,27,1
-E2513,Brett Campbell,T008,Data Science Bootcamp,27,53,0
 E2178,Nathaniel Carter,T005,Full-Stack Web Development,77,14,0
 E952,Amanda Barrera,T012,Advanced JavaScript,27,9,0
 E2002,Adam Mclaughlin,T012,Advanced JavaScript,71,45,1
@@ -3238,7 +3161,6 @@ E685,Lauren Stanley,T009,DevOps with Docker,5,3,1
 E1633,David Taylor,T005,Full-Stack Web Development,84,61,1
 E584,Timothy Sutton,T013,Advanced Data Visualization,63,36,1
 E2629,Kevin Mcmillan,T007,Machine Learning Basics,20,24,0
-E999,Michael Sanchez,T008,Data Science Bootcamp,86,31,1
 E3996,Catherine Butler,T002,React and Redux,3,60,1
 E2667,Bryan Weeks,T014,Python for Data Analysis,34,33,0
 E1574,Kristin Ward,T004,Client Relationship Management,11,9,0
@@ -3258,7 +3180,6 @@ E4162,Allison Gonzalez,T015,Project Management for Consultants,1,35,0
 E4594,Gina Ramirez,T014,Python for Data Analysis,29,30,0
 E3032,Shelley Hardin,T007,Machine Learning Basics,8,27,0
 E3821,Jeffrey Fischer,T007,Machine Learning Basics,29,97,1
-E3392,Brandon Baker,T008,Data Science Bootcamp,11,22,0
 E1601,Michael Smith,T005,Full-Stack Web Development,68,38,1
 E4117,Krista Bridges,T002,React and Redux,34,50,1
 E3413,Danielle Davis,T001,SQL Mastery,52,7,1
@@ -3294,12 +3215,10 @@ E229,Linda Shepard,T012,Advanced JavaScript,17,97,1
 E1594,Alison Blake,T005,Full-Stack Web Development,23,31,1
 E1223,Victor Snyder,T001,SQL Mastery,12,53,1
 E2704,Brent Howard,T012,Advanced JavaScript,91,56,1
-E4944,Robert Castillo,T003,Business Process Management,9,21,0
 E2471,Tiffany Johnson,T013,Advanced Data Visualization,26,13,0
 E1063,Mary Stafford,T009,DevOps with Docker,46,94,0
 E2500,Pamela King,T007,Machine Learning Basics,6,14,1
 E655,Gina Floyd,T008,Data Science Bootcamp,5,14,0
-E3645,Cesar Pitts,T003,Business Process Management,26,31,0
 E2873,Mitchell Crawford,T013,Advanced Data Visualization,33,65,1
 E318,Jennifer Martinez,T008,Data Science Bootcamp,6,73,1
 E173,Brandon Jordan,T014,Python for Data Analysis,38,30,0
@@ -3336,7 +3255,6 @@ E1495,Joshua Scott,T013,Advanced Data Visualization,73,10,1
 E800,Melissa Stanton,T014,Python for Data Analysis,8,36,0
 E737,Jennifer May,T003,Business Process Management,28,23,0
 E4225,Cory Perez,T013,Advanced Data Visualization,55,6,1
-E4573,Michael Lewis MD,T002,React and Redux,14,1,0
 E2487,Patricia Schmidt,T009,DevOps with Docker,99,32,1
 E1029,Anthony Pace,T010,Node.js Masterclass,14,9,0
 E385,Marco Gonzalez,T001,SQL Mastery,57,44,1
@@ -3394,10 +3312,8 @@ E1790,Matthew Kramer,T003,Business Process Management,99,51,1
 E1469,Kimberly Robinson,T014,Python for Data Analysis,24,29,0
 E3853,Katrina Smith,T013,Advanced Data Visualization,37,29,0
 E3719,Jason Browning,T014,Python for Data Analysis,26,33,0
-E2275,Abigail Jones,T005,Full-Stack Web Development,4,19,0
 E4750,Marco Wagner,T015,Project Management for Consultants,48,88,1
 E2494,Elizabeth Washington,T001,SQL Mastery,55,67,1
-E3409,Leonard Williams,T012,Advanced JavaScript,32,19,0
 E004,Angela Delacruz,T004,Client Relationship Management,88,100,1
 E3892,Stacie Blevins,T011,Consulting Essentials,32,33,0
 E4434,Dawn Daniels,T012,Advanced JavaScript,32,63,1
@@ -3424,7 +3340,6 @@ E253,Stacy Gutierrez,T012,Advanced JavaScript,1,17,1
 E4626,Bradley Daugherty,T004,Client Relationship Management,2,21,1
 E921,Felicia Bush,T014,Python for Data Analysis,19,24,0
 E2372,Kelly Butler,T008,Data Science Bootcamp,16,16,1
-E450,Gina Williams,T010,Node.js Masterclass,11,32,0
 E4846,Angela Schneider,T004,Client Relationship Management,48,61,1
 E2017,Olivia Jackson,T010,Node.js Masterclass,30,16,0
 E3986,Nicholas Fields,T014,Python for Data Analysis,10,26,0
@@ -3454,11 +3369,9 @@ E4839,Grant Smith,T004,Client Relationship Management,66,96,1
 E1833,Amber Weaver,T011,Consulting Essentials,19,1,0
 E2677,Charles Williams,T007,Machine Learning Basics,15,4,0
 E2091,Michelle Fowler,T009,DevOps with Docker,95,8,1
-E1280,Debra Jordan,T008,Data Science Bootcamp,41,10,0
 E3197,Angela Warner,T003,Business Process Management,32,20,1
 E902,Kimberly Deleon,T012,Advanced JavaScript,30,74,1
 E1821,Anna Washington,T005,Full-Stack Web Development,1,35,0
-E4745,Gordon Williams,T014,Python for Data Analysis,19,29,0
 E4065,Nicholas Schroeder,T014,Python for Data Analysis,33,33,0
 E2036,David Walker,T009,DevOps with Docker,41,77,1
 E2143,Vanessa Cox,T013,Advanced Data Visualization,12,54,1
@@ -3480,7 +3393,6 @@ E660,Donald Jordan,T009,DevOps with Docker,82,6,1
 E1190,Kevin Goodman,T007,Machine Learning Basics,32,23,1
 E982,Linda Kim,T008,Data Science Bootcamp,19,16,0
 E1834,Sonya Palmer,T008,Data Science Bootcamp,93,7,0
-E967,Emily Lane,T012,Advanced JavaScript,35,5,0
 E3875,Kenneth Powell,T002,React and Redux,95,10,1
 E3399,Robert Harris,T005,Full-Stack Web Development,70,12,1
 E008,Nicholas Miller,T013,Advanced Data Visualization,53,70,1
@@ -3509,7 +3421,6 @@ E3508,Amber Kim,T003,Business Process Management,77,23,1
 E3546,Dawn Jones,T011,Consulting Essentials,18,0,0
 E587,Tracy Campbell,T001,SQL Mastery,38,74,1
 E2781,James Christensen,T004,Client Relationship Management,15,9,0
-E1715,James Jones,T013,Advanced Data Visualization,11,69,1
 E1520,Maria Garcia,T001,SQL Mastery,2,6,0
 E4914,Joshua Johnson,T013,Advanced Data Visualization,11,7,0
 E4803,Bobby Roberts,T006,Financial Modeling,9,55,1
@@ -3533,8 +3444,6 @@ E2298,Megan Burns,T004,Client Relationship Management,46,56,1
 E4856,Mrs. Danielle Vincent MD,T007,Machine Learning Basics,72,68,1
 E3563,Beth Brown,T002,React and Redux,29,1,0
 E4840,Austin Chapman,T008,Data Science Bootcamp,34,5,0
-E841,Alexandria Clark,T013,Advanced Data Visualization,20,17,1
-E3250,Robert Fisher,T002,React and Redux,50,10,0
 E1472,Austin Simon,T004,Client Relationship Management,37,21,0
 E2902,Chad Norris,T004,Client Relationship Management,40,5,0
 E2425,Samuel Barnett,T014,Python for Data Analysis,73,72,1
@@ -3557,7 +3466,6 @@ E2523,Dana Solomon,T006,Financial Modeling,4,21,0
 E1976,John Simon,T008,Data Science Bootcamp,16,21,1
 E526,Keith Patterson,T002,React and Redux,95,80,1
 E3632,Mr. Joseph Ochoa,T012,Advanced JavaScript,30,17,0
-E1115,Michael Preston,T012,Advanced JavaScript,81,42,1
 E4024,Thomas Ortiz,T013,Advanced Data Visualization,31,30,0
 E249,Michael Gutierrez,T008,Data Science Bootcamp,13,31,1
 E2741,Robert Deleon,T006,Financial Modeling,0,2,0
@@ -3574,7 +3482,6 @@ E4104,Christina Garcia,T005,Full-Stack Web Development,3,19,0
 E1248,Danielle Peterson,T007,Machine Learning Basics,13,21,0
 E4300,Stephanie Torres,T005,Full-Stack Web Development,2,21,0
 E422,Cynthia Allen,T014,Python for Data Analysis,62,2,1
-E941,Tiffany Rios,T003,Business Process Management,34,11,0
 E4220,Kenneth Navarro,T009,DevOps with Docker,42,8,1
 E3324,Christina Whitaker,T014,Python for Data Analysis,1,6,0
 E1023,Dylan Shepherd,T005,Full-Stack Web Development,19,6,0
@@ -3606,7 +3513,6 @@ E2156,Matthew Hernandez,T011,Consulting Essentials,38,56,1
 E2684,Morgan Chandler,T005,Full-Stack Web Development,94,11,1
 E282,Andrea Cervantes,T003,Business Process Management,25,78,1
 E4330,Emily Hess,T014,Python for Data Analysis,85,94,1
-E2275,Abigail Jones,T012,Advanced JavaScript,14,34,0
 E1363,Rebecca Kennedy,T013,Advanced Data Visualization,27,4,0
 E3543,Cassidy Pham,T012,Advanced JavaScript,57,27,1
 E4778,Frances Holt,T007,Machine Learning Basics,15,32,0
@@ -3639,7 +3545,6 @@ E3493,Laura Day,T008,Data Science Bootcamp,24,20,0
 E1397,Sandy Jacobs,T009,DevOps with Docker,41,58,1
 E1218,Olivia Macias,T007,Machine Learning Basics,25,13,0
 E3717,Eric Villegas,T001,SQL Mastery,12,71,1
-E306,Blake Ross,T005,Full-Stack Web Development,17,11,0
 E1724,Colin Ramirez,T003,Business Process Management,17,15,0
 E2329,Christopher Roberts,T001,SQL Mastery,10,11,0
 E4970,Holly Nguyen,T009,DevOps with Docker,19,3,0
@@ -3647,7 +3552,6 @@ E3125,Bruce Petersen,T002,React and Redux,89,32,1
 E549,Alvin Sanchez DDS,T013,Advanced Data Visualization,97,63,1
 E4028,Melanie Hoover,T008,Data Science Bootcamp,51,28,1
 E2933,Jennifer Gaines,T004,Client Relationship Management,24,33,0
-E4646,Thomas Romero,T010,Node.js Masterclass,89,79,1
 E2585,Richard Beck,T013,Advanced Data Visualization,36,35,1
 E4311,Joe Gutierrez,T013,Advanced Data Visualization,14,5,0
 E166,John Hill,T009,DevOps with Docker,8,17,1
@@ -3684,7 +3588,6 @@ E211,Erin Heath,T003,Business Process Management,95,82,1
 E4124,Casey Miranda,T001,SQL Mastery,17,3,0
 E1320,Morgan Sherman,T008,Data Science Bootcamp,7,4,0
 E4411,Melinda Carpenter,T005,Full-Stack Web Development,37,22,0
-E4510,Nicholas Jackson,T013,Advanced Data Visualization,21,2,0
 E3330,Benjamin Kelley,T013,Advanced Data Visualization,31,2,0
 E1360,Manuel Thompson,T009,DevOps with Docker,9,13,0
 E2006,Cody Hayes,T005,Full-Stack Web Development,13,19,0
@@ -3693,7 +3596,6 @@ E4569,Anthony Adams Jr.,T008,Data Science Bootcamp,60,61,1
 E2520,Kathleen Shepherd,T010,Node.js Masterclass,15,34,0
 E1006,Juan Payne,T008,Data Science Bootcamp,76,50,1
 E3450,Katrina Moore,T013,Advanced Data Visualization,39,32,0
-E2651,Timothy Rodriguez,T002,React and Redux,68,55,0
 E3011,Brittany Peters,T011,Consulting Essentials,26,36,0
 E1884,Lydia Francis,T014,Python for Data Analysis,29,34,0
 E1537,Eric Woodard,T011,Consulting Essentials,0,17,0
@@ -3747,7 +3649,6 @@ E2989,Stephanie Collins,T012,Advanced JavaScript,60,78,1
 E950,Rachel Bailey,T005,Full-Stack Web Development,32,5,0
 E2858,Brandon Mann,T009,DevOps with Docker,21,22,0
 E4471,Thomas Smith,T012,Advanced JavaScript,39,0,1
-E1992,Joseph Hayden,T002,React and Redux,29,25,0
 E392,Patricia Morrison,T001,SQL Mastery,33,45,1
 E296,Jo Gibson,T011,Consulting Essentials,27,3,0
 E2415,Sara Lester,T015,Project Management for Consultants,1,29,0
@@ -3766,7 +3667,6 @@ E4724,Christine Johnson,T007,Machine Learning Basics,12,52,1
 E2103,Christopher Cruz,T008,Data Science Bootcamp,26,20,0
 E3137,Robert Frazier,T010,Node.js Masterclass,25,15,0
 E800,Melissa Stanton,T009,DevOps with Docker,34,23,0
-E3147,Rachel Wilson,T012,Advanced JavaScript,30,17,0
 E1088,Tina Bryant,T012,Advanced JavaScript,70,77,1
 E4786,Ricky Randolph MD,T013,Advanced Data Visualization,76,55,1
 E3509,Christopher Bernard,T008,Data Science Bootcamp,7,38,0
@@ -3803,7 +3703,6 @@ E3520,Joshua Olson,T011,Consulting Essentials,86,53,1
 E3735,Michael Carter,T008,Data Science Bootcamp,96,84,1
 E2067,Melissa Summers,T004,Client Relationship Management,76,58,1
 E1113,John Stokes,T007,Machine Learning Basics,11,1,1
-E4824,David Williams,T008,Data Science Bootcamp,77,17,1
 E2145,Samuel Hernandez,T004,Client Relationship Management,39,8,1
 E4517,Fernando Sawyer,T007,Machine Learning Basics,30,25,0
 E2968,Cynthia Reyes,T014,Python for Data Analysis,40,4,0
@@ -3833,18 +3732,14 @@ E1340,Ronnie Williams,T009,DevOps with Docker,3,28,0
 E4925,Jessica Lawson,T003,Business Process Management,19,37,0
 E3712,Mr. Joseph Lee,T009,DevOps with Docker,52,83,1
 E1280,Debra Jordan,T010,Node.js Masterclass,40,9,0
-E2300,Robin Lamb,T014,Python for Data Analysis,40,3,0
 E4219,Kristen Moyer,T008,Data Science Bootcamp,20,47,1
-E2473,Steven Nunez,T004,Client Relationship Management,5,35,1
 E756,James Roach,T001,SQL Mastery,59,26,1
 E3053,Jamie Williams,T008,Data Science Bootcamp,7,89,1
 E2187,Nancy Alexander,T014,Python for Data Analysis,3,13,1
 E534,Ronnie Phillips,T007,Machine Learning Basics,21,31,1
-E1971,Amy Curry,T008,Data Science Bootcamp,23,47,1
 E3107,Brandon Smith,T008,Data Science Bootcamp,77,73,0
 E528,Andrew Lynn,T009,DevOps with Docker,5,10,0
 E1740,Kristin Douglas,T006,Financial Modeling,7,3,0
-E2275,Abigail Jones,T012,Advanced JavaScript,66,72,1
 E4770,Catherine Schneider,T008,Data Science Bootcamp,13,17,0
 E234,Deborah Blackwell,T011,Consulting Essentials,31,40,0
 E3906,Mary Lee,T002,React and Redux,20,34,0
@@ -3883,8 +3778,6 @@ E304,Christopher Mccarty,T014,Python for Data Analysis,40,2,1
 E1368,Jeffrey Wheeler,T007,Machine Learning Basics,71,36,1
 E2053,Rebecca Young,T002,React and Redux,31,9,1
 E3112,Brian Hernandez,T009,DevOps with Docker,26,32,0
-E3051,Steven Curtis,T007,Machine Learning Basics,3,1,0
-E304,Christopher Mccarty,T014,Python for Data Analysis,37,4,0
 E296,Jo Gibson,T002,React and Redux,17,33,0
 E2732,Krista Hernandez,T010,Node.js Masterclass,97,91,1
 E890,Chad Alvarado,T007,Machine Learning Basics,11,82,1
@@ -3895,7 +3788,6 @@ E1938,David Palmer,T012,Advanced JavaScript,7,24,0
 E4523,David Reed,T007,Machine Learning Basics,3,23,0
 E1801,Tina Trujillo,T013,Advanced Data Visualization,10,75,1
 E3517,Christopher Ortiz,T009,DevOps with Docker,31,2,0
-E4547,Cindy Mendez,T008,Data Science Bootcamp,47,18,1
 E2383,Martha Hayes,T014,Python for Data Analysis,32,21,0
 E4326,Michael Webb,T009,DevOps with Docker,3,95,1
 E4471,Thomas Smith,T011,Consulting Essentials,41,8,0
@@ -3904,14 +3796,12 @@ E4955,Nicholas Perez,T001,SQL Mastery,8,10,1
 E3894,Terry Miller,T009,DevOps with Docker,0,34,0
 E3101,Michael Whitehead,T015,Project Management for Consultants,20,40,0
 E2268,Shawn Carter,T011,Consulting Essentials,24,100,1
-E1113,John Stokes,T009,DevOps with Docker,17,5,0
 E4765,Katrina Oliver,T013,Advanced Data Visualization,40,97,1
 E2135,Timothy Martinez,T007,Machine Learning Basics,63,21,1
 E4381,Renee Singh,T001,SQL Mastery,95,7,1
 E3160,Robin Horton,T007,Machine Learning Basics,54,66,1
 E4464,Erin Taylor,T002,React and Redux,41,49,0
 E4416,Teresa Ferguson,T005,Full-Stack Web Development,30,7,0
-E4064,Summer Robinson,T009,DevOps with Docker,95,41,1
 E978,Julie Conway,T009,DevOps with Docker,22,60,1
 E054,Kelly Cuevas,T004,Client Relationship Management,5,65,1
 E443,Manuel Byrd,T015,Project Management for Consultants,91,73,0
@@ -3924,17 +3814,14 @@ E2726,Steven Grant,T007,Machine Learning Basics,39,13,0
 E3313,Charles Roberts,T010,Node.js Masterclass,33,32,1
 E460,Sean Morse,T002,React and Redux,84,45,1
 E2591,Kristen Johnson,T008,Data Science Bootcamp,59,62,1
-E350,Michelle Pena,T008,Data Science Bootcamp,38,17,0
 E1811,Anthony Alexander,T004,Client Relationship Management,39,0,0
 E4521,Kevin Clayton,T010,Node.js Masterclass,15,12,0
 E710,Mary Lambert,T005,Full-Stack Web Development,78,1,1
 E540,Harold Bartlett,T013,Advanced Data Visualization,13,8,0
-E1331,Robin Chen,T013,Advanced Data Visualization,28,19,1
 E3318,Thomas Edwards,T004,Client Relationship Management,99,50,1
 E299,Anthony Davidson,T008,Data Science Bootcamp,32,6,0
 E2852,Charles Robinson,T005,Full-Stack Web Development,38,7,0
 E314,Robert Lewis,T003,Business Process Management,53,18,1
-E1604,Robert Armstrong,T008,Data Science Bootcamp,53,63,1
 E4153,Julie Thomas MD,T014,Python for Data Analysis,46,94,1
 E2407,Michael Robinson,T008,Data Science Bootcamp,40,12,0
 E2089,Benjamin Gutierrez,T013,Advanced Data Visualization,39,16,0
@@ -3974,7 +3861,6 @@ E2024,Jacob Cole,T012,Advanced JavaScript,20,39,0
 E2091,Michelle Fowler,T015,Project Management for Consultants,35,84,1
 E3064,Kevin Moore,T004,Client Relationship Management,12,2,0
 E621,Leslie Gaines,T007,Machine Learning Basics,24,10,0
-E3488,Joseph Brown,T009,DevOps with Docker,65,64,1
 E3269,Richard Costa,T001,SQL Mastery,17,15,1
 E250,James Coffey,T001,SQL Mastery,77,15,0
 E3068,Brian Aguirre,T008,Data Science Bootcamp,7,17,0
@@ -4021,8 +3907,6 @@ E2977,Mr. Nicholas White,T002,React and Redux,13,8,0
 E1656,Deborah Webb,T002,React and Redux,8,28,0
 E1843,Michaela Smith,T009,DevOps with Docker,15,78,1
 E2812,Audrey Schwartz,T009,DevOps with Docker,38,0,0
-E2187,Nancy Alexander,T014,Python for Data Analysis,93,76,1
-E810,Stephanie Garcia,T014,Python for Data Analysis,39,12,0
 E4363,Kimberly Smith,T012,Advanced JavaScript,9,34,1
 E1472,Austin Simon,T001,SQL Mastery,27,24,0
 E2243,Regina Williams,T012,Advanced JavaScript,48,77,1
@@ -4051,7 +3935,6 @@ E197,Anthony Malone,T007,Machine Learning Basics,55,0,1
 E1072,Katelyn Bowen,T011,Consulting Essentials,19,39,0
 E2477,Rebecca Jones,T011,Consulting Essentials,66,20,1
 E4230,Michael Hansen,T001,SQL Mastery,33,30,0
-E2591,Kristen Johnson,T014,Python for Data Analysis,74,75,1
 E3516,Megan Roberts,T007,Machine Learning Basics,25,28,0
 E409,Richard Brooks,T001,SQL Mastery,55,57,1
 E3716,George Lopez,T010,Node.js Masterclass,20,50,1
@@ -4061,12 +3944,9 @@ E2975,Tim Montgomery,T001,SQL Mastery,38,29,1
 E1046,Laura Whitehead,T004,Client Relationship Management,7,73,1
 E2375,Michael Harris DVM,T014,Python for Data Analysis,2,36,0
 E3061,David Lewis,T005,Full-Stack Web Development,55,37,1
-E2629,Kevin Mcmillan,T007,Machine Learning Basics,54,36,1
 E3834,Phillip Johnson,T008,Data Science Bootcamp,19,4,1
 E2963,Fernando Joyce,T011,Consulting Essentials,34,7,0
-E4358,Ronald White,T014,Python for Data Analysis,0,15,0
 E4864,Michael Bennett,T012,Advanced JavaScript,0,50,1
-E1851,Brian Doyle,T009,DevOps with Docker,2,45,0
 E505,Sabrina Randall,T006,Financial Modeling,28,29,0
 E452,Elizabeth Johnson,T008,Data Science Bootcamp,87,55,0
 E1810,Tony Rubio,T012,Advanced JavaScript,74,66,1
@@ -4089,7 +3969,6 @@ E2776,Jimmy Chen,T002,React and Redux,53,46,1
 E4587,Richard Moreno,T002,React and Redux,35,63,1
 E1199,Taylor Smith,T008,Data Science Bootcamp,59,4,1
 E667,Wendy Greer,T001,SQL Mastery,17,7,0
-E1566,Jeff Garcia,T002,React and Redux,17,14,1
 E2455,Linda Chavez,T009,DevOps with Docker,61,39,1
 E701,Frederick Davis,T008,Data Science Bootcamp,6,100,1
 E4665,Luis Miller,T012,Advanced JavaScript,45,40,1
@@ -4097,7 +3976,6 @@ E367,Andrea Lee,T005,Full-Stack Web Development,43,18,1
 E4655,Erin Thompson,T004,Client Relationship Management,62,81,1
 E777,Danielle Moore,T007,Machine Learning Basics,9,82,1
 E1226,Jacob Murphy,T009,DevOps with Docker,12,10,0
-E2793,Mr. Luis Alvarado,T014,Python for Data Analysis,99,52,1
 E3828,Leonard Stewart,T005,Full-Stack Web Development,31,40,0
 E1099,Brittany Murphy,T001,SQL Mastery,33,34,0
 E751,Michael Brown,T003,Business Process Management,71,52,0
@@ -4116,15 +3994,12 @@ E1686,Brandon Chang,T007,Machine Learning Basics,11,23,0
 E277,Edward Gonzales,T002,React and Redux,20,29,0
 E4756,Amy Brown,T006,Financial Modeling,42,51,1
 E1905,Nicole Garza,T004,Client Relationship Management,22,18,0
-E2305,Diana Black,T010,Node.js Masterclass,26,0,0
 E2497,Cynthia Mills,T003,Business Process Management,7,9,0
 E4419,Robert Velazquez,T015,Project Management for Consultants,22,75,1
 E3094,Christopher Lee,T013,Advanced Data Visualization,30,21,0
 E1636,Anne Massey,T008,Data Science Bootcamp,12,34,0
 E4302,Grace Allen,T011,Consulting Essentials,8,93,1
-E611,Gabriel Evans,T010,Node.js Masterclass,10,78,1
 E4863,Stephen Stevenson,T003,Business Process Management,42,36,1
-E3001,Larry Roth,T012,Advanced JavaScript,9,82,1
 E3961,Jamie Browning,T002,React and Redux,11,76,1
 E1834,Sonya Palmer,T010,Node.js Masterclass,70,91,1
 E1032,Reginald Mccullough,T009,DevOps with Docker,38,17,0
@@ -4141,7 +4016,6 @@ E1434,Russell Turner,T012,Advanced JavaScript,6,8,0
 E1048,Jamie Blanchard,T007,Machine Learning Basics,23,77,1
 E4289,Lauren Suarez,T012,Advanced JavaScript,2,31,1
 E1655,Theresa Marquez,T014,Python for Data Analysis,21,30,0
-E710,Mary Lambert,T001,SQL Mastery,27,33,0
 E1925,Stanley Moss,T012,Advanced JavaScript,16,24,0
 E4621,Robert Ponce,T008,Data Science Bootcamp,30,0,0
 E4416,Teresa Ferguson,T013,Advanced Data Visualization,71,54,1
@@ -4176,7 +4050,6 @@ E2206,Jonathan Edwards,T007,Machine Learning Basics,40,65,1
 E120,Brad Brown,T013,Advanced Data Visualization,21,73,1
 E4977,Allen Bryant,T014,Python for Data Analysis,36,0,1
 E832,Hector Walsh,T010,Node.js Masterclass,30,52,1
-E2305,Diana Black,T010,Node.js Masterclass,40,46,1
 E4613,Christopher Kim,T003,Business Process Management,7,93,1
 E624,Jacqueline Jones,T012,Advanced JavaScript,70,98,1
 E3082,Tommy Flores,T005,Full-Stack Web Development,30,22,0
@@ -4186,7 +4059,6 @@ E1932,Ashley Scott MD,T015,Project Management for Consultants,1,13,0
 E2409,David Mack,T014,Python for Data Analysis,41,11,1
 E4446,Felicia Sanchez,T008,Data Science Bootcamp,56,2,1
 E519,Jose Allen,T003,Business Process Management,25,35,1
-E1539,James Bond,T009,DevOps with Docker,44,18,1
 E3191,Andrea Williamson,T011,Consulting Essentials,10,6,1
 E097,Brent Phillips,T007,Machine Learning Basics,82,57,1
 E2139,Amy Salazar,T008,Data Science Bootcamp,22,6,0
@@ -4201,7 +4073,6 @@ E3480,Ashley Peterson,T014,Python for Data Analysis,58,28,1
 E2582,Catherine White,T010,Node.js Masterclass,26,38,1
 E973,Donald Sullivan,T014,Python for Data Analysis,23,9,1
 E842,Christopher Scott,T007,Machine Learning Basics,1,2,0
-E3792,Todd Erickson,T001,SQL Mastery,33,27,0
 E4517,Fernando Sawyer,T005,Full-Stack Web Development,21,41,1
 E1153,John Marshall,T010,Node.js Masterclass,82,72,0
 E1344,Barbara Barnett,T008,Data Science Bootcamp,33,26,0
@@ -4225,7 +4096,6 @@ E2376,Stacy Young,T002,React and Redux,79,39,1
 E2556,Samantha Reyes,T008,Data Science Bootcamp,18,24,0
 E1991,Chelsea Rodriguez,T012,Advanced JavaScript,4,28,0
 E249,Michael Gutierrez,T012,Advanced JavaScript,61,41,1
-E1719,Sonia Hoover,T006,Financial Modeling,59,97,1
 E2650,William Hensley,T008,Data Science Bootcamp,20,13,1
 E2728,Donna Holden,T006,Financial Modeling,34,0,0
 E3037,Jordan Dunlap,T015,Project Management for Consultants,11,0,0
@@ -4244,7 +4114,6 @@ E2032,Laura Wall,T010,Node.js Masterclass,68,63,1
 E3910,Kelly Mcgee,T014,Python for Data Analysis,85,43,1
 E1525,Alexis Johnson,T014,Python for Data Analysis,31,33,0
 E082,Steven Phillips,T001,SQL Mastery,5,18,0
-E249,Michael Gutierrez,T009,DevOps with Docker,38,2,0
 E3689,Julie Carroll,T011,Consulting Essentials,83,83,1
 E1529,Thomas Oliver,T012,Advanced JavaScript,100,83,1
 E1925,Stanley Moss,T011,Consulting Essentials,45,29,1
@@ -4267,9 +4136,7 @@ E408,Andrew Davis,T013,Advanced Data Visualization,30,1,0
 E3568,Jessica Conway,T015,Project Management for Consultants,29,15,0
 E3847,Melissa Smith,T008,Data Science Bootcamp,62,71,1
 E2950,Alex Lamb,T012,Advanced JavaScript,53,19,1
-E3610,April Hill,T009,DevOps with Docker,0,17,0
 E3846,Peter Cruz,T013,Advanced Data Visualization,6,17,0
-E3409,Leonard Williams,T008,Data Science Bootcamp,39,95,1
 E3893,Adrienne Obrien,T006,Financial Modeling,28,69,1
 E3094,Christopher Lee,T015,Project Management for Consultants,28,12,0
 E2327,Dr. Tammy Sanchez MD,T008,Data Science Bootcamp,0,68,0
@@ -4331,9 +4198,7 @@ E4687,Lynn Collins,T013,Advanced Data Visualization,14,6,0
 E2879,Bryan Lopez,T007,Machine Learning Basics,93,89,1
 E630,Sarah Beltran,T001,SQL Mastery,30,33,0
 E3799,Jennifer Mccoy,T013,Advanced Data Visualization,12,39,0
-E3880,John Gomez,T014,Python for Data Analysis,21,30,0
 E506,Brian Maddox,T007,Machine Learning Basics,69,13,0
-E1021,Joseph Hendricks,T014,Python for Data Analysis,69,56,1
 E634,Joshua Johns,T001,SQL Mastery,61,97,1
 E1297,Jeffrey Nunez,T011,Consulting Essentials,15,30,0
 E1991,Chelsea Rodriguez,T014,Python for Data Analysis,65,94,1
@@ -4341,8 +4206,6 @@ E3832,Ashley Chandler,T007,Machine Learning Basics,1,53,1
 E1066,Jacqueline Torres,T001,SQL Mastery,18,83,1
 E3433,Brandon Hernandez,T012,Advanced JavaScript,64,1,1
 E3847,Melissa Smith,T005,Full-Stack Web Development,40,85,1
-E3905,Michael Jenkins,T002,React and Redux,30,21,0
-E2228,Ruben Washington,T008,Data Science Bootcamp,32,51,1
 E109,Kevin Lopez,T005,Full-Stack Web Development,73,38,1
 E3794,Ashley Steele,T012,Advanced JavaScript,62,20,1
 E648,Suzanne Carrillo,T004,Client Relationship Management,36,18,1
@@ -4354,9 +4217,7 @@ E4231,Tiffany Glover,T010,Node.js Masterclass,17,7,0
 E1808,Michael Hernandez,T007,Machine Learning Basics,82,39,1
 E115,Jose Chase,T002,React and Redux,27,20,0
 E4165,Kathleen Sampson,T002,React and Redux,9,6,1
-E3380,Caleb Collins,T003,Business Process Management,13,92,1
 E1900,Wendy Nelson,T001,SQL Mastery,30,46,1
-E777,Danielle Moore,T013,Advanced Data Visualization,40,86,1
 E1989,Nathaniel Hernandez,T001,SQL Mastery,17,24,0
 E4776,Mackenzie Wheeler,T001,SQL Mastery,20,19,1
 E2442,Steven Ruiz,T014,Python for Data Analysis,26,31,0
@@ -4366,7 +4227,6 @@ E1248,Danielle Peterson,T012,Advanced JavaScript,79,92,1
 E1366,Bryan Nelson,T005,Full-Stack Web Development,21,21,0
 E318,Jennifer Martinez,T010,Node.js Masterclass,31,19,0
 E4574,Rebecca Leonard,T001,SQL Mastery,97,45,1
-E3187,Sean Garcia,T013,Advanced Data Visualization,76,79,1
 E1005,Crystal Gallagher,T002,React and Redux,40,14,0
 E2907,Michael Clark,T012,Advanced JavaScript,19,86,1
 E1589,Barbara Patel,T014,Python for Data Analysis,0,15,0
@@ -4380,7 +4240,6 @@ E1816,Mark Case,T010,Node.js Masterclass,94,52,1
 E642,David Wilson,T001,SQL Mastery,29,31,0
 E2822,Theresa Castro,T001,SQL Mastery,1,11,1
 E1216,Jessica Malone,T009,DevOps with Docker,39,36,0
-E1594,Alison Blake,T002,React and Redux,97,69,1
 E956,Jeffrey Little,T009,DevOps with Docker,88,46,1
 E341,Tricia Hicks,T011,Consulting Essentials,5,25,0
 E1268,John Jacobson,T013,Advanced Data Visualization,24,13,0
@@ -4420,7 +4279,6 @@ E2959,Angie Davis MD,T001,SQL Mastery,27,24,0
 E812,Joseph Hunt,T002,React and Redux,92,98,1
 E4111,Donald Henderson,T003,Business Process Management,30,19,1
 E547,Michael Craig,T006,Financial Modeling,82,47,1
-E1032,Reginald Mccullough,T009,DevOps with Docker,20,66,1
 E099,Jeff Smith,T007,Machine Learning Basics,93,100,1
 E3813,Justin Cruz,T012,Advanced JavaScript,34,13,0
 E3928,Whitney Bauer,T009,DevOps with Docker,38,13,0
@@ -4454,13 +4312,9 @@ E891,Michael Flynn,T008,Data Science Bootcamp,96,83,1
 E4555,Sheila Alexander,T015,Project Management for Consultants,31,24,0
 E3029,Jessica Campbell,T014,Python for Data Analysis,24,31,0
 E3686,Jessica Garcia,T004,Client Relationship Management,42,8,0
-E505,Sabrina Randall,T007,Machine Learning Basics,57,85,1
 E3022,Danielle Hale,T012,Advanced JavaScript,29,32,0
-E3858,Kathleen Jones,T011,Consulting Essentials,18,3,0
 E1774,Nancy Barnes,T002,React and Redux,73,43,1
-E2199,Haley Rivers,T014,Python for Data Analysis,29,75,1
 E4469,Holly Fox,T001,SQL Mastery,73,89,1
-E628,James Thompson,T002,React and Redux,31,13,1
 E4149,George Olsen,T006,Financial Modeling,29,21,0
 E2865,Nathan Brown,T001,SQL Mastery,82,4,0
 E833,Brandon Cruz,T005,Full-Stack Web Development,16,28,0
@@ -4474,7 +4328,6 @@ E3081,Alexandra Stephens,T005,Full-Stack Web Development,76,66,1
 E2140,Mr. Justin Meyer,T002,React and Redux,24,3,0
 E1981,Gregory Warner,T008,Data Science Bootcamp,40,3,0
 E1650,David Carey,T005,Full-Stack Web Development,27,37,0
-E091,Jim Gill,T007,Machine Learning Basics,8,65,1
 E4911,Jim Baker,T001,SQL Mastery,96,54,1
 E2080,James Anderson,T015,Project Management for Consultants,84,49,1
 E3736,Brian Walker,T007,Machine Learning Basics,17,7,0
@@ -4491,7 +4344,6 @@ E1518,Steven Jennings,T001,SQL Mastery,10,20,0
 E1077,Michael Vega,T015,Project Management for Consultants,29,23,0
 E2337,Christian Benson,T013,Advanced Data Visualization,26,2,0
 E3364,Thomas Dawson,T013,Advanced Data Visualization,33,2,0
-E1800,Samuel Barrett,T013,Advanced Data Visualization,28,36,1
 E1421,Matthew Foster,T015,Project Management for Consultants,40,80,0
 E4382,Brandon Collier,T010,Node.js Masterclass,48,88,1
 E4800,Sarah Sawyer,T001,SQL Mastery,100,56,1
@@ -4500,12 +4352,10 @@ E4283,Mr. Jeremy Wagner,T001,SQL Mastery,32,77,1
 E2238,Sarah Peterson DVM,T001,SQL Mastery,72,35,1
 E1238,Erin Collins,T010,Node.js Masterclass,23,1,0
 E2685,Michelle Ward,T001,SQL Mastery,95,82,1
-E926,Jonathan Morton,T002,React and Redux,32,11,0
 E2319,Thomas Smith,T008,Data Science Bootcamp,20,27,1
 E372,Curtis Hays,T005,Full-Stack Web Development,31,15,0
 E2305,Diana Black,T009,DevOps with Docker,13,13,0
 E1589,Barbara Patel,T005,Full-Stack Web Development,7,13,0
-E4097,Denise Harris,T010,Node.js Masterclass,40,26,0
 E1497,Daniel Vega,T003,Business Process Management,33,32,0
 E4876,Monique Peters,T012,Advanced JavaScript,95,84,1
 E644,Sandy Tucker,T013,Advanced Data Visualization,15,40,0
@@ -4566,7 +4416,6 @@ E360,Dustin Hanson,T005,Full-Stack Web Development,8,20,0
 E4149,George Olsen,T005,Full-Stack Web Development,55,83,1
 E4707,Michael Pierce,T003,Business Process Management,59,5,1
 E4777,Steve Hanna,T013,Advanced Data Visualization,38,29,0
-E1962,Nancy Davis,T013,Advanced Data Visualization,17,7,0
 E2358,Adam Reynolds,T007,Machine Learning Basics,20,23,0
 E4422,Kerry Brooks,T014,Python for Data Analysis,18,33,0
 E940,Jennifer Daniel,T007,Machine Learning Basics,6,88,1
@@ -4597,7 +4446,6 @@ E868,Melinda Malone,T005,Full-Stack Web Development,50,84,1
 E1819,Peter Randall,T009,DevOps with Docker,15,11,0
 E053,Timothy Miller,T007,Machine Learning Basics,12,7,0
 E2017,Olivia Jackson,T006,Financial Modeling,14,16,0
-E4222,Rodney Smith,T006,Financial Modeling,40,88,1
 E3228,Rhonda Mills,T010,Node.js Masterclass,4,4,0
 E524,Julia King,T001,SQL Mastery,13,29,0
 E3891,Melanie Lee,T008,Data Science Bootcamp,25,41,1
@@ -4612,22 +4460,17 @@ E4326,Michael Webb,T006,Financial Modeling,22,17,0
 E3086,Scott Stout,T007,Machine Learning Basics,31,2,0
 E266,Michael Payne,T010,Node.js Masterclass,18,6,0
 E374,Kevin Bennett,T015,Project Management for Consultants,91,10,1
-E1919,Mary Nelson,T013,Advanced Data Visualization,2,18,1
 E4797,Kayla Strickland,T010,Node.js Masterclass,0,33,1
 E2953,Kristina Chung,T002,React and Redux,92,25,1
 E902,Kimberly Deleon,T003,Business Process Management,32,29,1
-E2957,Julie Marshall,T008,Data Science Bootcamp,76,61,1
 E1396,Ronald Henderson,T001,SQL Mastery,30,31,1
 E248,Tara Frederick,T007,Machine Learning Basics,83,83,1
-E4028,Melanie Hoover,T008,Data Science Bootcamp,26,33,0
 E524,Julia King,T006,Financial Modeling,77,91,1
 E2642,Denise Allen,T008,Data Science Bootcamp,9,96,1
-E1000,Ashley Swanson,T009,DevOps with Docker,86,6,1
 E3315,Lydia Lopez,T012,Advanced JavaScript,24,64,1
 E1178,Chad Sherman,T004,Client Relationship Management,27,17,0
 E1284,Michael Alexander,T004,Client Relationship Management,24,25,0
 E2924,Maria Davis,T005,Full-Stack Web Development,9,34,0
-E3783,Holly Stark,T003,Business Process Management,92,18,1
 E4252,Christopher Marsh,T006,Financial Modeling,19,41,1
 E3349,Patricia Sullivan,T008,Data Science Bootcamp,26,4,1
 E4946,Nicole Hudson,T001,SQL Mastery,31,36,0
@@ -4635,7 +4478,6 @@ E4670,Rebekah Goodwin,T008,Data Science Bootcamp,48,20,1
 E3385,Terry James,T013,Advanced Data Visualization,10,77,1
 E466,Laura Hamilton,T004,Client Relationship Management,10,7,0
 E4522,Mr. Christopher Richards,T010,Node.js Masterclass,91,10,1
-E1192,Casey Perez,T004,Client Relationship Management,2,38,1
 E4797,Kayla Strickland,T014,Python for Data Analysis,32,24,0
 E2820,Mark Rogers Jr.,T006,Financial Modeling,90,37,0
 E4175,Michelle Santiago,T006,Financial Modeling,32,23,1
@@ -4644,7 +4486,6 @@ E4525,Justin Oconnor,T010,Node.js Masterclass,70,14,1
 E1341,Tammy Martinez,T005,Full-Stack Web Development,72,18,1
 E3596,Melanie Lee,T008,Data Science Bootcamp,68,93,1
 E2236,Andrew Mcdaniel,T006,Financial Modeling,19,10,0
-E2112,Audrey Wilson,T013,Advanced Data Visualization,49,87,1
 E4556,Amy Humphrey,T008,Data Science Bootcamp,20,7,0
 E3544,Brittany Holland,T004,Client Relationship Management,5,82,1
 E1385,Nathan Elliott,T014,Python for Data Analysis,25,69,1
@@ -4658,7 +4499,6 @@ E3838,Steven Graham,T014,Python for Data Analysis,35,15,0
 E356,Jessica Hernandez,T009,DevOps with Docker,39,11,0
 E3388,Stephanie Michael,T008,Data Science Bootcamp,43,1,1
 E3570,Kevin Jones,T002,React and Redux,0,8,0
-E2246,John Harris,T002,React and Redux,20,20,1
 E3847,Melissa Smith,T004,Client Relationship Management,49,27,1
 E1745,Sean Peterson,T014,Python for Data Analysis,14,35,0
 E4479,Krystal Strickland,T002,React and Redux,22,95,1
@@ -4678,14 +4518,10 @@ E468,Regina Wilson,T008,Data Science Bootcamp,18,18,0
 E2925,Karla Lewis,T005,Full-Stack Web Development,19,3,0
 E4920,Sylvia Patton,T005,Full-Stack Web Development,9,17,0
 E2725,Amanda Reed,T002,React and Redux,8,6,0
-E2520,Kathleen Shepherd,T010,Node.js Masterclass,65,87,1
 E2291,Stephanie Williams,T001,SQL Mastery,20,36,1
 E1993,Kendra Cantu,T003,Business Process Management,29,76,1
 E2323,James Cunningham,T011,Consulting Essentials,51,52,1
-E285,Bruce Hill,T012,Advanced JavaScript,21,18,0
 E2966,Kyle Reese,T001,SQL Mastery,36,31,0
-E346,Kristina Colon,T015,Project Management for Consultants,64,79,1
-E3230,David Davis,T001,SQL Mastery,43,89,0
 E3311,Monique Chen,T009,DevOps with Docker,29,12,0
 E1016,Paul Peterson,T015,Project Management for Consultants,24,9,0
 E2049,Danny Webb,T014,Python for Data Analysis,29,51,1
@@ -4693,11 +4529,9 @@ E1400,Douglas Miller,T003,Business Process Management,98,38,1
 E2252,Natalie Morrison,T012,Advanced JavaScript,27,21,0
 E018,Patrick Little,T013,Advanced Data Visualization,36,35,0
 E2461,Emily Williams,T014,Python for Data Analysis,67,41,1
-E587,Tracy Campbell,T001,SQL Mastery,23,20,0
 E809,Brittany Bradley,T013,Advanced Data Visualization,66,17,0
 E2895,Jason Dunn,T006,Financial Modeling,33,98,1
 E4218,Stephanie Wilson,T004,Client Relationship Management,2,11,0
-E1676,Duane Hansen,T005,Full-Stack Web Development,45,95,1
 E894,Michael Bell,T002,React and Redux,6,38,0
 E239,Brittany Parrish,T009,DevOps with Docker,31,98,1
 E3290,Michelle Romero,T008,Data Science Bootcamp,55,94,1
@@ -4715,7 +4549,6 @@ E3348,Victoria Walker,T008,Data Science Bootcamp,85,39,1
 E2995,Katie Bowers,T008,Data Science Bootcamp,91,40,1
 E2410,Eric Harmon,T001,SQL Mastery,6,14,0
 E3917,Joanne Deleon,T004,Client Relationship Management,51,41,1
-E3105,Catherine Cohen,T013,Advanced Data Visualization,10,25,0
 E080,Melissa Wise,T005,Full-Stack Web Development,19,2,0
 E3418,Hannah Parker,T010,Node.js Masterclass,92,68,1
 E2084,Daniel Richardson,T001,SQL Mastery,32,93,1
@@ -4745,7 +4578,6 @@ E2152,Cody Williams,T003,Business Process Management,0,17,0
 E3164,Scott Warner,T001,SQL Mastery,40,14,0
 E2052,Diane Wong,T006,Financial Modeling,6,0,0
 E1319,Cory Glass,T003,Business Process Management,75,29,1
-E526,Keith Patterson,T002,React and Redux,33,9,0
 E460,Sean Morse,T004,Client Relationship Management,29,11,1
 E4344,Eric Cole,T009,DevOps with Docker,27,35,0
 E2487,Patricia Schmidt,T002,React and Redux,31,69,1
@@ -4753,10 +4585,8 @@ E3514,Haley Williams,T002,React and Redux,14,15,0
 E2362,Melissa Gilmore,T005,Full-Stack Web Development,9,27,1
 E1070,Kristen Sanchez,T003,Business Process Management,0,16,0
 E3224,Jaime Price,T009,DevOps with Docker,21,67,1
-E3455,Seth Jenkins,T014,Python for Data Analysis,79,12,1
 E1116,James Harrison,T008,Data Science Bootcamp,20,55,1
 E4221,Lori Chandler,T015,Project Management for Consultants,32,19,0
-E2548,Angela Davis,T008,Data Science Bootcamp,34,23,0
 E4124,Casey Miranda,T014,Python for Data Analysis,26,0,1
 E1611,Kenneth Martinez,T008,Data Science Bootcamp,47,43,1
 E363,Jennifer Miller,T015,Project Management for Consultants,5,32,0
@@ -4780,7 +4610,6 @@ E676,Lauren Francis,T004,Client Relationship Management,29,24,0
 E1165,Ryan Smith,T014,Python for Data Analysis,13,43,1
 E4202,Gregory Reyes,T013,Advanced Data Visualization,15,22,1
 E970,Billy Young,T009,DevOps with Docker,24,28,0
-E1777,Carol Wright,T010,Node.js Masterclass,78,92,1
 E1699,Jennifer Warren,T007,Machine Learning Basics,7,33,0
 E003,Larry Waters,T010,Node.js Masterclass,46,81,0
 E2449,Suzanne Glenn,T001,SQL Mastery,53,88,1
@@ -4805,7 +4634,6 @@ E4976,Monica Garcia,T008,Data Science Bootcamp,56,31,1
 E4967,Lisa Ward,T015,Project Management for Consultants,88,66,1
 E1314,Michael Russell,T002,React and Redux,14,82,1
 E3825,Holly Young,T010,Node.js Masterclass,14,40,0
-E3731,Diane Lloyd DVM,T001,SQL Mastery,23,25,1
 E3467,Michael Proctor,T008,Data Science Bootcamp,43,28,0
 E284,Robert Sanders,T014,Python for Data Analysis,34,50,1
 E3841,Haley Hill,T007,Machine Learning Basics,69,44,1
@@ -4820,7 +4648,6 @@ E203,Lisa Marshall,T012,Advanced JavaScript,28,91,1
 E372,Curtis Hays,T002,React and Redux,1,17,0
 E4671,Barbara Shepherd,T005,Full-Stack Web Development,30,26,0
 E2584,Joshua Hardy,T004,Client Relationship Management,28,59,0
-E089,Nathan Warren,T013,Advanced Data Visualization,11,32,0
 E4826,Jennifer Booth,T009,DevOps with Docker,88,100,1
 E174,Jeremy Hanson,T013,Advanced Data Visualization,15,28,0
 E3121,Brenda Mcdaniel,T008,Data Science Bootcamp,0,16,0
@@ -4835,7 +4662,6 @@ E953,Lisa Curtis,T004,Client Relationship Management,36,20,0
 E785,Jennifer Morales,T007,Machine Learning Basics,26,33,0
 E1011,Joel Patrick,T015,Project Management for Consultants,20,27,0
 E1351,Amanda Quinn,T015,Project Management for Consultants,14,0,0
-E846,William Hoover,T002,React and Redux,3,59,0
 E3198,Jeffrey Martinez,T014,Python for Data Analysis,58,72,1
 E3498,Megan Leach,T011,Consulting Essentials,42,23,1
 E2751,Joseph Nelson,T012,Advanced JavaScript,72,44,1
@@ -4853,7 +4679,6 @@ E105,Chelsea Anderson,T015,Project Management for Consultants,92,50,1
 E4022,Carl Wolfe,T011,Consulting Essentials,0,20,0
 E1302,Alan James,T002,React and Redux,73,14,1
 E196,James Williams,T009,DevOps with Docker,14,13,0
-E148,Mary Jenkins,T004,Client Relationship Management,0,52,1
 E1906,Lisa Cardenas,T010,Node.js Masterclass,18,68,1
 E2945,Rebecca Shaffer,T001,SQL Mastery,60,26,1
 E3113,Austin Jones,T003,Business Process Management,75,71,1
@@ -4905,7 +4730,6 @@ E2324,Susan Bolton,T007,Machine Learning Basics,61,53,1
 E4911,Jim Baker,T009,DevOps with Docker,97,98,1
 E2221,Gregory Alexander,T012,Advanced JavaScript,34,45,1
 E4093,Susan Coleman,T009,DevOps with Docker,21,20,0
-E4517,Fernando Sawyer,T007,Machine Learning Basics,11,17,1
 E1341,Tammy Martinez,T003,Business Process Management,13,7,0
 E831,Richard Schwartz,T010,Node.js Masterclass,32,35,0
 E2672,Jessica Mills,T014,Python for Data Analysis,34,95,1
@@ -4927,19 +4751,14 @@ E1065,Jennifer Kramer,T010,Node.js Masterclass,72,22,1
 E4502,Carly Payne,T015,Project Management for Consultants,27,48,1
 E990,Justin Mays,T001,SQL Mastery,43,40,1
 E4355,Kathryn Haney,T005,Full-Stack Web Development,59,6,1
-E3963,Jeffrey Hernandez,T010,Node.js Masterclass,8,34,1
-E2362,Melissa Gilmore,T005,Full-Stack Web Development,90,79,1
-E2895,Jason Dunn,T006,Financial Modeling,13,11,0
 E2354,Louis Jones,T005,Full-Stack Web Development,27,31,0
 E1067,Kyle Hill,T001,SQL Mastery,89,47,1
 E1952,Anthony Owens,T008,Data Science Bootcamp,2,32,1
 E2719,Matthew Allen,T003,Business Process Management,21,67,1
-E2287,John Bradshaw,T008,Data Science Bootcamp,36,20,1
 E2089,Benjamin Gutierrez,T002,React and Redux,3,50,1
 E3205,Jody Ramirez,T010,Node.js Masterclass,36,27,0
 E3805,Erin Kelly,T012,Advanced JavaScript,30,34,0
 E4166,Monica Foster,T001,SQL Mastery,9,10,0
-E077,Eric Duncan,T013,Advanced Data Visualization,35,9,0
 E3464,Robert Stephens,T008,Data Science Bootcamp,28,85,1
 E2027,Tiffany Taylor,T009,DevOps with Docker,0,70,1
 E2829,Cody Harrison,T014,Python for Data Analysis,17,17,1
@@ -4976,8 +4795,6 @@ E730,James Powell,T014,Python for Data Analysis,35,12,0
 E601,Doris Roman,T013,Advanced Data Visualization,99,1,1
 E375,Shannon Farmer,T009,DevOps with Docker,38,24,0
 E3690,Linda Collins,T010,Node.js Masterclass,11,17,0
-E3657,Jennifer Miller,T001,SQL Mastery,14,95,1
-E1261,Julie Wallace,T005,Full-Stack Web Development,16,96,0
 E1074,Catherine Ryan,T013,Advanced Data Visualization,30,12,0
 E1811,Anthony Alexander,T001,SQL Mastery,9,20,0
 E977,Amy Perez,T001,SQL Mastery,37,26,0
@@ -4992,20 +4809,16 @@ E947,Nicholas Horn Jr.,T007,Machine Learning Basics,30,15,0
 E1939,Denise Hanson MD,T002,React and Redux,14,24,0
 E3839,Gary Hoffman,T013,Advanced Data Visualization,54,32,1
 E4433,Mary Gordon,T001,SQL Mastery,2,33,0
-E2810,Robert Jones,T007,Machine Learning Basics,28,40,1
 E1203,Jacob Blackwell,T005,Full-Stack Web Development,15,10,0
 E2067,Melissa Summers,T008,Data Science Bootcamp,93,88,1
 E773,Michael Santos,T010,Node.js Masterclass,35,5,0
 E1242,Jacob Romero,T002,React and Redux,67,24,1
 E1741,Roy Adams,T010,Node.js Masterclass,16,30,0
-E1097,Paul Myers,T013,Advanced Data Visualization,68,39,1
 E1272,Robert Stevens,T012,Advanced JavaScript,25,28,0
 E3232,Denise Terry,T013,Advanced Data Visualization,18,26,0
 E2060,Derrick Mcclure,T008,Data Science Bootcamp,25,19,0
 E2748,Peter Soto,T006,Financial Modeling,12,26,0
-E1932,Ashley Scott MD,T015,Project Management for Consultants,100,75,1
 E416,Erica Harrell,T014,Python for Data Analysis,16,18,0
-E4699,Joshua Hall,T003,Business Process Management,37,1,1
 E3182,Pamela Hebert,T011,Consulting Essentials,39,18,0
 E988,Kari Hensley,T003,Business Process Management,98,65,1
 E4605,Elizabeth Pope,T012,Advanced JavaScript,85,96,1
@@ -5046,12 +4859,9 @@ E293,Danny Salinas,T014,Python for Data Analysis,29,18,0
 E1572,Dawn Little,T014,Python for Data Analysis,31,47,1
 E3444,Philip Rodriguez,T007,Machine Learning Basics,25,20,0
 E1077,Michael Vega,T007,Machine Learning Basics,79,82,1
-E3703,Charles Wilson,T007,Machine Learning Basics,13,9,0
 E4947,Peter Roberts,T013,Advanced Data Visualization,97,68,0
 E1263,Sandra Smith,T006,Financial Modeling,12,8,1
 E842,Christopher Scott,T015,Project Management for Consultants,51,58,1
-E4536,Madison Barton,T014,Python for Data Analysis,19,80,1
-E555,Ronald Jenkins,T011,Consulting Essentials,25,40,0
 E253,Stacy Gutierrez,T009,DevOps with Docker,34,37,0
 E3263,Madison Brown,T004,Client Relationship Management,20,29,0
 E795,Carl Smith,T007,Machine Learning Basics,56,26,1
@@ -5064,8 +4874,6 @@ E1937,Brian Cook,T011,Consulting Essentials,67,82,1
 E1611,Kenneth Martinez,T014,Python for Data Analysis,23,1,0
 E1325,Kevin Manning,T012,Advanced JavaScript,18,40,0
 E2044,Renee Glass,T004,Client Relationship Management,64,23,0
-E2657,Frances Evans,T004,Client Relationship Management,34,12,0
-E164,Joshua Daugherty,T013,Advanced Data Visualization,14,35,0
 E2943,Amanda Duran,T003,Business Process Management,11,36,0
 E2113,Barbara Gonzalez,T010,Node.js Masterclass,23,89,1
 E1372,David Palmer,T002,React and Redux,32,11,0
@@ -5079,7 +4887,6 @@ E4156,Mike Zimmerman,T012,Advanced JavaScript,73,45,1
 E3188,Richard Snyder,T005,Full-Stack Web Development,89,7,1
 E371,Bradley Moore,T008,Data Science Bootcamp,43,30,1
 E3037,Jordan Dunlap,T001,SQL Mastery,37,3,0
-E110,Laura Medina,T002,React and Redux,5,29,0
 E187,Jimmy Cantu,T005,Full-Stack Web Development,58,1,1
 E3456,Brooke Mathis,T009,DevOps with Docker,72,4,0
 E777,Danielle Moore,T011,Consulting Essentials,83,96,1
@@ -5102,7 +4909,6 @@ E4550,Kelly Odonnell,T003,Business Process Management,30,9,1
 E1001,Lauren Williams,T014,Python for Data Analysis,33,16,0
 E3927,Stephanie Beck,T008,Data Science Bootcamp,34,9,0
 E2633,Brenda Ford,T002,React and Redux,89,5,1
-E520,Kevin Edwards,T001,SQL Mastery,67,32,1
 E214,Christopher Webb,T006,Financial Modeling,20,50,1
 E2507,Derek Phillips,T001,SQL Mastery,39,34,0
 E3824,Andrea Castillo,T008,Data Science Bootcamp,3,29,0
@@ -5112,7 +4918,6 @@ E2086,Beth Hernandez,T009,DevOps with Docker,9,10,0
 E939,Debra Johnson,T012,Advanced JavaScript,3,36,0
 E2443,Robert Garza,T012,Advanced JavaScript,81,91,1
 E4718,Ryan Rivera,T008,Data Science Bootcamp,95,80,1
-E2320,Miguel Evans,T011,Consulting Essentials,7,9,0
 E3766,Mary Meyer,T005,Full-Stack Web Development,26,35,0
 E4837,Christopher Webster,T004,Client Relationship Management,48,13,1
 E1878,Michele Brown,T007,Machine Learning Basics,95,63,1
@@ -5133,9 +4938,7 @@ E610,Laura Hebert,T012,Advanced JavaScript,81,86,1
 E2098,Michael Bell,T001,SQL Mastery,89,78,0
 E3650,Sharon Miller,T013,Advanced Data Visualization,1,25,1
 E3858,Kathleen Jones,T014,Python for Data Analysis,32,19,0
-E4300,Stephanie Torres,T014,Python for Data Analysis,16,9,0
 E924,Thomas James,T004,Client Relationship Management,67,3,0
-E2188,Tiffany Williams,T008,Data Science Bootcamp,83,52,1
 E2070,Shannon Rogers,T010,Node.js Masterclass,19,32,0
 E544,John Miller,T015,Project Management for Consultants,9,20,0
 E2113,Barbara Gonzalez,T013,Advanced Data Visualization,38,30,0
@@ -5150,19 +4953,15 @@ E948,Samuel George,T012,Advanced JavaScript,26,98,1
 E4766,Stacy Smith,T002,React and Redux,88,76,1
 E482,Michael Gutierrez MD,T002,React and Redux,68,42,1
 E1697,Joshua Marshall,T008,Data Science Bootcamp,1,33,0
-E4566,Kelly Winters,T001,SQL Mastery,94,53,1
 E4174,Paula King,T008,Data Science Bootcamp,0,55,1
 E777,Danielle Moore,T003,Business Process Management,19,7,0
 E066,Marcus Griffin,T014,Python for Data Analysis,100,69,1
-E2564,James Gonzalez,T012,Advanced JavaScript,41,23,1
 E3051,Steven Curtis,T005,Full-Stack Web Development,34,25,0
 E011,Christopher Green,T007,Machine Learning Basics,63,37,1
 E2611,Andrew Rodriguez,T011,Consulting Essentials,99,7,1
 E3846,Peter Cruz,T012,Advanced JavaScript,36,30,0
-E3457,Brooke Garcia,T002,React and Redux,5,1,0
 E508,Doris Carey,T013,Advanced Data Visualization,31,36,0
 E4343,Mary Clark,T009,DevOps with Docker,8,18,0
-E1594,Alison Blake,T002,React and Redux,34,10,1
 E1288,Katrina Smith,T008,Data Science Bootcamp,75,59,1
 E1104,Debbie Robinson,T012,Advanced JavaScript,12,16,0
 E2249,Erin Mendoza,T009,DevOps with Docker,5,35,0
@@ -5170,7 +4969,6 @@ E1940,Brittany Bridges,T003,Business Process Management,88,9,1
 E1482,Jeff Morris,T004,Client Relationship Management,88,48,1
 E264,Jessica Chen,T014,Python for Data Analysis,76,45,0
 E3877,Betty Ellison,T007,Machine Learning Basics,66,52,1
-E2647,Miranda Todd,T007,Machine Learning Basics,28,90,1
 E371,Bradley Moore,T012,Advanced JavaScript,37,18,0
 E609,Kyle Mcintosh,T013,Advanced Data Visualization,36,53,1
 E369,Eric Rios,T008,Data Science Bootcamp,12,43,1
@@ -5198,7 +4996,6 @@ E3152,Robert Thomas,T007,Machine Learning Basics,90,68,1
 E2432,Karen Wilson,T009,DevOps with Docker,26,11,0
 E2250,Krystal Hendricks,T002,React and Redux,64,100,1
 E2504,John Obrien,T012,Advanced JavaScript,25,7,0
-E269,Hector Myers,T008,Data Science Bootcamp,39,26,0
 E2034,Rhonda Miller,T014,Python for Data Analysis,55,100,1
 E3491,Wendy Choi,T001,SQL Mastery,55,43,1
 E4578,Tara Jordan,T001,SQL Mastery,44,18,1
@@ -5230,13 +5027,11 @@ E2838,Brooke Taylor,T010,Node.js Masterclass,23,1,0
 E1440,Michael Lucas,T005,Full-Stack Web Development,30,37,1
 E3099,Julie Graves,T005,Full-Stack Web Development,69,35,1
 E3642,Lori Peters,T004,Client Relationship Management,93,74,1
-E4303,Casey Coleman,T014,Python for Data Analysis,31,38,0
 E488,Gary Reid,T012,Advanced JavaScript,12,37,0
 E1599,Shannon Davies,T014,Python for Data Analysis,95,33,1
 E4327,Mrs. Jasmine Rogers,T008,Data Science Bootcamp,15,30,0
 E2425,Samuel Barnett,T007,Machine Learning Basics,12,23,0
 E1850,William Maxwell,T007,Machine Learning Basics,5,3,0
-E3717,Eric Villegas,T001,SQL Mastery,37,19,0
 E1264,Dr. David Dickson MD,T011,Consulting Essentials,56,100,1
 E1620,Chris Ray,T014,Python for Data Analysis,88,48,1
 E3087,Dustin Wilson,T010,Node.js Masterclass,32,28,0
@@ -5267,7 +5062,6 @@ E2400,James Moore,T003,Business Process Management,97,0,1
 E3698,Katie Robertson,T015,Project Management for Consultants,30,25,0
 E4398,Carla Hester,T013,Advanced Data Visualization,37,2,0
 E3466,Susan Henderson,T001,SQL Mastery,11,83,1
-E258,Troy Taylor,T014,Python for Data Analysis,31,30,0
 E1086,Erica Sullivan,T002,React and Redux,15,6,1
 E2972,Timothy Lambert,T007,Machine Learning Basics,10,7,0
 E1939,Denise Hanson MD,T006,Financial Modeling,67,24,1
@@ -5285,11 +5079,9 @@ E1986,Erin Wilkerson DDS,T008,Data Science Bootcamp,71,76,1
 E4193,Yvette Frank,T009,DevOps with Docker,34,28,1
 E149,Whitney Brown,T003,Business Process Management,98,76,1
 E2292,Kristin Patterson,T015,Project Management for Consultants,8,74,1
-E2477,Rebecca Jones,T011,Consulting Essentials,49,82,1
 E4743,Steven Smith,T013,Advanced Data Visualization,3,10,0
 E2695,Kyle Martinez,T001,SQL Mastery,10,21,0
 E2721,Kenneth Zimmerman,T007,Machine Learning Basics,14,80,1
-E2351,Benjamin Rodriguez,T013,Advanced Data Visualization,82,82,1
 E3149,Sylvia David,T001,SQL Mastery,93,45,1
 E2931,Sheri Robinson,T006,Financial Modeling,10,10,0
 E273,Alison Mckenzie,T015,Project Management for Consultants,72,36,1
@@ -5303,7 +5095,6 @@ E499,Dana Hill,T005,Full-Stack Web Development,48,48,1
 E3103,Amber Rodriguez,T003,Business Process Management,39,0,0
 E4739,Melissa Reed,T003,Business Process Management,26,32,0
 E4211,Ruth Robertson,T009,DevOps with Docker,56,38,1
-E841,Alexandria Clark,T015,Project Management for Consultants,28,28,0
 E4532,Frank Cardenas,T009,DevOps with Docker,33,15,0
 E4893,Kimberly Lopez,T001,SQL Mastery,33,23,0
 E2800,David Washington,T003,Business Process Management,22,35,0
@@ -5322,8 +5113,6 @@ E4953,Melinda Gordon,T015,Project Management for Consultants,4,26,0
 E1033,Amy Holt,T008,Data Science Bootcamp,59,95,1
 E2422,Aaron Carney,T012,Advanced JavaScript,65,76,1
 E1982,James Green,T015,Project Management for Consultants,12,34,1
-E3333,Susan Anderson,T014,Python for Data Analysis,20,40,0
-E2511,Alexander Kelly,T015,Project Management for Consultants,25,22,0
 E4022,Carl Wolfe,T010,Node.js Masterclass,100,16,1
 E3023,Brittany Fernandez,T014,Python for Data Analysis,52,45,1
 E1628,Jasmine Bradford,T012,Advanced JavaScript,7,0,0
@@ -5360,17 +5149,14 @@ E4362,Carlos Gallegos,T011,Consulting Essentials,51,55,1
 E290,Daryl Braun,T015,Project Management for Consultants,90,24,0
 E4915,Kelly Smith,T013,Advanced Data Visualization,27,25,0
 E3197,Angela Warner,T006,Financial Modeling,13,34,1
-E4117,Krista Bridges,T007,Machine Learning Basics,9,23,0
 E4551,Katherine Faulkner,T009,DevOps with Docker,9,15,0
 E4919,Lynn Williams,T013,Advanced Data Visualization,15,6,0
 E2415,Sara Lester,T012,Advanced JavaScript,35,40,0
 E565,Dr. Chelsey Wallace,T004,Client Relationship Management,13,23,0
-E685,Lauren Stanley,T009,DevOps with Docker,24,3,0
 E481,Melanie Cooke,T007,Machine Learning Basics,32,23,0
 E741,Daniel Frost,T010,Node.js Masterclass,85,11,1
 E1604,Robert Armstrong,T014,Python for Data Analysis,54,27,1
 E4631,William Wong,T001,SQL Mastery,36,12,0
-E3053,Jamie Williams,T001,SQL Mastery,3,17,0
 E4879,Ashley Watkins,T013,Advanced Data Visualization,85,24,1
 E2752,Margaret Singh,T009,DevOps with Docker,29,14,0
 E1201,Timothy Johnston,T002,React and Redux,48,42,1
@@ -5392,7 +5178,6 @@ E109,Kevin Lopez,T015,Project Management for Consultants,13,31,0
 E4942,Jennifer Bailey,T008,Data Science Bootcamp,12,13,0
 E3889,Timothy Smith,T004,Client Relationship Management,35,23,0
 E4381,Renee Singh,T007,Machine Learning Basics,3,27,0
-E2806,Jessica Moore,T012,Advanced JavaScript,57,43,1
 E4980,Eric Peterson,T007,Machine Learning Basics,21,6,0
 E928,Jose Silva,T005,Full-Stack Web Development,40,39,1
 E3013,Joshua Berg,T006,Financial Modeling,31,39,0
@@ -5410,7 +5195,6 @@ E2163,Sarah Sanchez,T010,Node.js Masterclass,16,15,0
 E4691,Amanda Ramirez,T006,Financial Modeling,7,23,0
 E1304,Garrett Chapman,T013,Advanced Data Visualization,99,99,1
 E4014,Cody Williams,T004,Client Relationship Management,1,14,0
-E2147,Aaron Obrien,T008,Data Science Bootcamp,97,79,1
 E3222,Carl Johnson,T009,DevOps with Docker,30,6,0
 E917,Carolyn Martin,T008,Data Science Bootcamp,25,21,0
 E1664,Tyler Reese,T012,Advanced JavaScript,29,99,1
@@ -5430,7 +5214,6 @@ E979,Vicki Wells,T006,Financial Modeling,38,64,0
 E4553,Olivia Woods,T005,Full-Stack Web Development,7,18,0
 E1778,Laurie Ferguson,T007,Machine Learning Basics,10,0,0
 E2922,Thomas Mckay,T008,Data Science Bootcamp,21,13,0
-E3480,Ashley Peterson,T014,Python for Data Analysis,3,74,1
 E832,Hector Walsh,T014,Python for Data Analysis,1,89,0
 E3295,Mariah Evans,T006,Financial Modeling,69,100,0
 E4207,Joshua Moses,T007,Machine Learning Basics,31,81,1
@@ -5438,12 +5221,9 @@ E157,Steven Rodriguez,T010,Node.js Masterclass,34,6,0
 E4464,Erin Taylor,T014,Python for Data Analysis,33,40,0
 E4746,Scott Joyce,T008,Data Science Bootcamp,77,32,1
 E2975,Tim Montgomery,T003,Business Process Management,97,18,1
-E4881,Danielle Kelly,T007,Machine Learning Basics,22,30,0
 E1693,Mrs. Cheyenne Henderson DVM,T013,Advanced Data Visualization,54,8,1
 E2260,Carla Cooper,T013,Advanced Data Visualization,39,16,1
-E988,Kari Hensley,T003,Business Process Management,84,49,1
 E963,Margaret Cannon,T010,Node.js Masterclass,17,40,0
-E648,Suzanne Carrillo,T004,Client Relationship Management,16,33,0
 E2803,Christine Scott,T012,Advanced JavaScript,36,14,0
 E054,Kelly Cuevas,T005,Full-Stack Web Development,92,76,1
 E2191,Steven Hernandez,T012,Advanced JavaScript,40,10,1
@@ -5452,9 +5232,7 @@ E4042,Robin Scott,T001,SQL Mastery,36,19,0
 E2561,Alice Williams,T001,SQL Mastery,18,34,1
 E4014,Cody Williams,T012,Advanced JavaScript,50,68,1
 E4802,Charles Duncan,T014,Python for Data Analysis,34,89,0
-E841,Alexandria Clark,T007,Machine Learning Basics,3,12,0
 E2616,Dr. Julia Kelly,T002,React and Redux,31,16,0
-E3441,Deborah Booth DDS,T014,Python for Data Analysis,35,31,0
 E4691,Amanda Ramirez,T010,Node.js Masterclass,19,81,1
 E018,Patrick Little,T012,Advanced JavaScript,28,29,0
 E1044,Daniel Delacruz,T010,Node.js Masterclass,67,93,1
@@ -5470,18 +5248,14 @@ E726,Louis Peterson,T014,Python for Data Analysis,8,17,0
 E1657,Melanie Martin,T002,React and Redux,45,39,1
 E2433,Ryan Larsen,T008,Data Science Bootcamp,77,85,1
 E4696,Lauren Wise,T013,Advanced Data Visualization,73,93,0
-E609,Kyle Mcintosh,T013,Advanced Data Visualization,29,33,1
 E2560,Nicholas Miranda,T005,Full-Stack Web Development,17,40,0
 E2299,Nicholas Schmidt,T011,Consulting Essentials,7,1,0
 E880,Joseph Shaffer,T010,Node.js Masterclass,31,25,0
 E109,Kevin Lopez,T014,Python for Data Analysis,21,38,0
 E1213,Tiffany Kerr,T002,React and Redux,80,91,1
-E1268,John Jacobson,T013,Advanced Data Visualization,27,14,0
 E2481,Christopher Russell,T014,Python for Data Analysis,32,1,0
-E2549,Kimberly Dixon,T010,Node.js Masterclass,70,45,1
 E2983,Barbara Keller,T010,Node.js Masterclass,17,30,0
 E3257,Paul Warren,T007,Machine Learning Basics,18,32,0
-E020,Aaron Miller,T001,SQL Mastery,64,84,1
 E1978,Phyllis Hester,T009,DevOps with Docker,24,14,1
 E2924,Maria Davis,T010,Node.js Masterclass,24,12,0
 E4110,Michael Ford,T009,DevOps with Docker,26,17,0
@@ -5492,7 +5266,6 @@ E913,Jerry Wilson,T008,Data Science Bootcamp,34,29,0
 E228,Douglas Lee,T003,Business Process Management,58,62,1
 E2314,Alexa George,T001,SQL Mastery,4,28,0
 E200,Eric Soto,T011,Consulting Essentials,28,26,0
-E675,Amy Rivas,T008,Data Science Bootcamp,8,47,1
 E4047,Patricia Norton,T003,Business Process Management,11,0,0
 E501,Jon Peterson,T001,SQL Mastery,35,24,1
 E3918,John Montgomery,T005,Full-Stack Web Development,39,98,1
